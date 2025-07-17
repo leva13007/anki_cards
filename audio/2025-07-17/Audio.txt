@@ -1,0 +1,200 @@
+#separator:tab
+#html:true
+[sound:rec_e44e2c29e052.mp3]	She enters the room and sits down
+[sound:rec_8452445fe6c3.mp3]	We enter the building through the main door
+[sound:rec_4e2ff38faffd.mp3]	We enter the shop to buy some milk
+[sound:rec_b20258474bc4.mp3]	They enter the house and take off their coats
+[sound:rec_5b86ff2c09e0.mp3]	She passes the park on her way home
+[sound:rec_7360b6c4b6aa.mp3]	We pass the shop and see a big sale
+[sound:rec_fc0cbccbc871.mp3]	He passes the school every morning
+[sound:rec_3f943f9a4e2b.mp3]	They cross the bridge and turn left
+[sound:rec_0907923e27ef.mp3]	She approaches the teacher with a question
+[sound:rec_77fc53643c40.mp3]	We approach the bus stop and check the time
+[sound:rec_701ff2d32ccf.mp3]	He carefully approaches the dog
+[sound:rec_80c42ee92ab0.mp3]	They approach the table and sit down
+[sound:rec_f3822f3e0365.mp3]	She crosses the street at the traffic light
+[sound:rec_7ce8da0a8594.mp3]	We cross the road and enter the park
+[sound:rec_14287805dba7.mp3]	He crosses the bridge over the river
+[sound:rec_6c42a7953d37.mp3]	They cross the square to reach the museum
+[sound:rec_58eb91409507.mp3]	Could you give me a ride home?
+[sound:rec_839cdc8d1820.mp3]	He gave his friend a ride to work
+[sound:rec_96e4ca59b7a8.mp3]	She often gives her brother a ride to school
+[sound:rec_331031de3075.mp3]	She took the kids to school
+[sound:rec_155d89a41ea8.mp3]	Could you drive me to the airport?
+[sound:rec_22b5f609533a.mp3]	He took his mother to see the doctor
+[sound:rec_9b0228156554.mp3]	Please drop me off at the bus stop
+[sound:rec_ffec3e39805d.mp3]	He dropped off his sister near the mall
+[sound:rec_363b11872c1f.mp3]	She dropped me off at my house
+[sound:rec_727f4a6c1510.mp3]	I will pick you up at five
+[sound:rec_7a57a14156f7.mp3]	Can you pick me up after work?
+[sound:rec_01571232ac74.mp3]	He picked up his son from school
+[sound:rec_0d71ea67d6fa.mp3]	I want to learn new words every day
+[sound:rec_80d1401ea65b.mp3]	Children learn quickly from their parents
+[sound:rec_2b1695ce0174.mp3]	He is learning to drive a car
+[sound:rec_6d54fcbd05fb.mp3]	She learned to play the piano
+[sound:rec_c01ad6695512.mp3]	She studies English in the evening
+[sound:rec_ffef04cf34f3.mp3]	We need to study for the test
+[sound:rec_7b46387524be.mp3]	He is studying at the university
+[sound:rec_7b26fdf8d3dd.mp3]	I study history at school
+[sound:rec_91dd7d0cbca6.mp3]	She teaches math at school
+[sound:rec_5915d8797f3a.mp3]	Can you teach me to swim?
+[sound:rec_6df398aba7f9.mp3]	He teaches children how to read
+[sound:rec_93de140af33c.mp3]	She teaches me English every day
+[sound:rec_16c29e7d7884.mp3]	He mastered English in two years
+[sound:rec_2831e59a13e9.mp3]	I want to master how to use a computer
+[sound:rec_120941124587.mp3]	He mastered the new program quickly
+[sound:rec_5c39d7b7ad27.mp3]	She wants to master cooking skills
+[sound:rec_db09886edcc6.mp3]	Who do you call every day?
+[sound:rec_122bcaff6f0d.mp3]	Who calls you every day?
+[sound:rec_34e54b573976.mp3]	Who do you meet on Sundays?
+[sound:rec_33d1a29f5623.mp3]	Who meets you on Thursdays?
+[sound:rec_6837ec84e3cc.mp3]	What does she do in the company?
+[sound:rec_d2c71eb0e27b.mp3]	What makes this film so popular?
+[sound:rec_c78aeb3ec920.mp3]	Who do you work with?
+[sound:rec_2fa3191e4e49.mp3]	Who works in your office?
+[sound:rec_fef14af84248.mp3]	What do you watch in the evening?
+[sound:rec_36f2741f1fa2.mp3]	What happens in this movie?
+[sound:rec_a62186b9206b.mp3]	Who does she give presents to?
+[sound:rec_033931e9b115.mp3]	Who gives you gifts?
+[sound:rec_40dd6ddc169b.mp3]	What do they play in summer?
+[sound:rec_57d751f4fbe0.mp3]	What makes this game so interesting?
+[sound:rec_064087cda71d.mp3]	Who does he write to?
+[sound:rec_29b8ecb75031.mp3]	Who writes letters to you?
+[sound:rec_af7b8ef507e7.mp3]	Frankly, I find your story hard to believe
+[sound:rec_c93354a9eedd.mp3]	"Frankly, this app doesn&#x27;t help at all"
+[sound:rec_72e468d6f228.mp3]	"Frankly, I&#x27;m completely fed up with this job"
+[sound:rec_2669194729d7.mp3]	"Frankly, she didn&#x27;t even bother to try"
+[sound:rec_132784dd5526.mp3]	Apparently, the train was delayed again
+[sound:rec_aa72e5974d90.mp3]	Apparently, he lied to everyone without hesitation
+[sound:rec_b075f5faa16c.mp3]	"Apparently, it&#x27;s not even her real name"
+[sound:rec_72caa3d3ae5c.mp3]	Apparently, we missed the deadline by a day
+[sound:rec_9c219860b8a9.mp3]	Eventually, he managed to pay the rent
+[sound:rec_e3aa84dc9886.mp3]	Eventually, she came up with the right words
+[sound:rec_2eddca681084.mp3]	Eventually, we ran into each other at the airport
+[sound:rec_73af1020a03e.mp3]	Eventually, they admitted everything
+[sound:rec_9856fc0dfdbd.mp3]	"Lately, I&#x27;ve been keeping the light on while I sleep"
+[sound:rec_eaa77b06b4e1.mp3]	"Lately, she&#x27;s been working every weekend"
+[sound:rec_b01f6754bc56.mp3]	"Lately, he&#x27;s been unusually quiet"
+[sound:rec_0af95d55067b.mp3]	"Lately, we&#x27;ve been ordering takeaway almost every night"
+[sound:rec_7f1335ad627d.mp3]	She stepped forward and gave a warm smile
+[sound:rec_96db9924e1bc.mp3]	We must keep moving forward
+[sound:rec_a97026ff35bc.mp3]	He leaned forward, trying to catch every word
+[sound:rec_3eaa07f4afed.mp3]	The car crept forward through the traffic jam
+[sound:rec_4cbe1b1501bc.mp3]	He stepped back
+[sound:rec_36af16bec5f3.mp3]	She turned around but saw nothing behind her
+[sound:rec_1889f44f761a.mp3]	The car slowly rolled backwards down the hill
+[sound:rec_15354c9aa034.mp3]	"Don&#x27;t step back - keep moving forward"
+[sound:rec_393bdc4ec905.mp3]	We had dinner and then headed home
+[sound:rec_13be7f9bf92f.mp3]	"Let&#x27;s watch the movie and have a chat afterwards"
+[sound:rec_3cc99428edd0.mp3]	They played football and devoured pizza afterwards
+[sound:rec_88b756b74592.mp3]	She walked slowly toward the door, deep in thought
+[sound:rec_70a0ed23ce6e.mp3]	The dog ran joyfully toward its owner
+[sound:rec_d41fec805e0e.mp3]	He looked up at the sky full of stars
+[sound:rec_e605890e4fa4.mp3]	I wish you were here
+[sound:rec_918c9e0a1a80.mp3]	I wish I knew more languages
+[sound:rec_3dd3373afc4d.mp3]	I wish they had more time to help us
+[sound:rec_8d7f846092a3.mp3]	I wish she would listen to me
+[sound:rec_241378758d08.mp3]	I wish we could go to restaurants more often
+[sound:rec_ea24e083da52.mp3]	"I wish she didn&#x27;t go to bed so late"
+[sound:rec_3e8a29212738.mp3]	"I wish he didn&#x27;t eat so much junk food"
+[sound:rec_f2f81a34f58b.mp3]	"I wish they didn&#x27;t argue so much"
+[sound:rec_23a1d3a06390.mp3]	I wish she could cook better
+[sound:rec_2c96f1c5e5bd.mp3]	I wish I lived in Australia
+[sound:rec_f4d86bb66e8a.mp3]	I wish he didn't have to do this job every day
+[sound:rec_5660fd369f61.mp3]	I wish I had studied harder at school
+[sound:rec_870613b71e3e.mp3]	I wish they had come to the party
+[sound:rec_15df766a9750.mp3]	"I wish he hadn&#x27;t moved to another city"
+[sound:rec_d0f0fb9d1381.mp3]	"I wish she hadn&#x27;t stopped working as a teacher"
+[sound:rec_457b92ea3c30.mp3]	"I wish he hadn&#x27;t lost his money"
+[sound:rec_d0370b6f6b1e.mp3]	I wish he hadn't said those words
+[sound:rec_27ddf43c7614.mp3]	"I think it&#x27;s going to rain today"
+[sound:rec_96055019c427.mp3]	She finds this film boring
+[sound:rec_28b050c81c9d.mp3]	"Do you think he&#x27;ll come to the meeting?"
+[sound:rec_f92ed3cc096d.mp3]	I think they need some help
+[sound:rec_f7ee07bff347.mp3]	I guess you are tired after work
+[sound:rec_c6d3e454ea21.mp3]	Can you guess what I bought?
+[sound:rec_42769b30daee.mp3]	Can you guess how much it costs?
+[sound:rec_e673c1ce7139.mp3]	"I guess we&#x27;ll be late for the bus"
+[sound:rec_b8c8f3590afb.mp3]	He guessed the answer correctly
+[sound:rec_85196ee846d6.mp3]	I suppose we should go
+[sound:rec_b03ca25fc120.mp3]	"She supposes they&#x27;ll arrive soon"
+[sound:rec_d077746eebcf.mp3]	"I suppose you don&#x27;t know the answer"
+[sound:rec_734eae3ff1c5.mp3]	Let's assume everything will be fine
+[sound:rec_b45078b7f0c0.mp3]	I assumed she would help us
+[sound:rec_97a7163dbea1.mp3]	"Don&#x27;t assume he&#x27;ll agree with you"
+[sound:rec_f05c9bbd4b1c.mp3]	They assumed the shop would be open
+[sound:rec_e648b7bdc383.mp3]	We assume this information is true
+[sound:rec_01005832ec39.mp3]	He left immediately after the meeting
+[sound:rec_44285b342def.mp3]	I need this report immediately
+[sound:rec_34e4a487eddd.mp3]	Call me immediately if you have any questions
+[sound:rec_b5acd0b6038a.mp3]	She immediately answered the call
+[sound:rec_3d10a5f5b341.mp3]	This task needs to be done urgently
+[sound:rec_b2cec3f26036.mp3]	We must leave this place urgently
+[sound:rec_1c7b97875652.mp3]	A doctor is urgently needed at the hospital
+[sound:rec_98c548a5d3cb.mp3]	Can you help me with this task urgently?
+[sound:rec_0cb21851a99c.mp3]	She finished her homework quickly
+[sound:rec_f0e8c40c22b2.mp3]	Please come here quickly
+[sound:rec_3e742ea7254c.mp3]	He quickly realized his mistake
+[sound:rec_6643136fee42.mp3]	They solved the problem quickly
+[sound:rec_de5ec5277630.mp3]	"Please let me know in advance if you can&#x27;t come"
+[sound:rec_a2fbeed3002c.mp3]	We need to plan this in advance
+[sound:rec_dc7f0d741d36.mp3]	I prepared everything in advance
+[sound:rec_c71303682295.mp3]	"I&#x27;m done with my homework quickly"
+[sound:rec_b888f7cf59d1.mp3]	"I&#x27;m done with my work for today"
+[sound:rec_c59304e39b4a.mp3]	"I&#x27;m done with the dishes"
+[sound:rec_e5a934e009d6.mp3]	"I&#x27;m done with my coffee"
+[sound:rec_213cc4ddddc3.mp3]	"I&#x27;m done with the cleaning"
+[sound:rec_a7d3def7b0c5.mp3]	I'm done with the report
+[sound:rec_7b37e44c0b88.mp3]	"I&#x27;m done with this book"
+[sound:rec_2c6174301bd1.mp3]	"I&#x27;m done with all my tasks"
+[sound:rec_6b8b97b79e27.mp3]	"I&#x27;m done the washing"
+[sound:rec_7887b1597ab5.mp3]	"I&#x27;ve finished reading this book"
+[sound:rec_b63bb83aae1e.mp3]	"I&#x27;ve finished writing the report"
+[sound:rec_6acdcfead89d.mp3]	"I&#x27;ve finished cleaning the house"
+[sound:rec_bbea0af9e85c.mp3]	"I&#x27;ve finished cooking dinner"
+[sound:rec_5370afb0e3fb.mp3]	"I&#x27;ve finished watering the plants"
+[sound:rec_137fdaa258c0.mp3]	"Shall I order the taxi for half past six? Let&#x27;s make it quarter to seven, just to be sure"
+[sound:rec_2930ed68b453.mp3]	Can you pick up my aunt at nine? Ok, but I might be five minutes late
+[sound:rec_bfec387a60de.mp3]	"What time&#x27;s your interview today? It&#x27;s at ten, but I need to be there by nine. Good luck!"
+[sound:rec_7a58b86c6b02.mp3]	What time do you want to meet? How about seven? Ok, see you then
+[sound:rec_a9b6ddfedeeb.mp3]	Sorry, we can't come over next Saturday. No worries, shall we do Sunday instead? Sunday is good with us
+[sound:rec_ddddec055b0a.mp3]	Got to run. See you at the meeting tomorrow? Definitely, catch you there
+[sound:rec_b4b728f6fb2a.mp3]	Great to catch up with you. Let's do it again soon
+[sound:rec_7d3fbd906bc4.mp3]	I'm really sorry I forgot your birthday. No big deal
+[sound:rec_bd2b41b3ce29.mp3]	Oh no, your top. I've messed it up. It's ok, it'll come out in the wash
+[sound:rec_cef6a035fbd5.mp3]	I was sorry to hear you've been ill. Thanks, I'm feeling much better now
+[sound:rec_e791db064842.mp3]	My bad. That's ok, it was nothing
+[sound:rec_fa540b164bf3.mp3]	I'm sorry to bother you, but could you help me? No problem, what do you need?
+[sound:rec_bd0f1f19fafc.mp3]	I owe you an apology for my behavior. Don't worry, I understand
+[sound:rec_d3f163fcbbbd.mp3]	"I&#x27;m sorry for your loss. Thanks, I appreciate it"
+[sound:rec_81d7ba7d9536.mp3]	"I can&#x27;t thank you enough for your help. Don&#x27;t mention it, I&#x27;m glad I could help"
+[sound:rec_f941bcfc06a7.mp3]	"I owe you one. No problem, I&#x27;m happy to help"
+[sound:rec_9b8f4c97b15b.mp3]	"It&#x27;s such a nice day. Shall we go somewhere?"
+[sound:rec_1064eba4d174.mp3]	"I&#x27;ll have a look"
+[sound:rec_75d6a2314624.mp3]	I came up with a cool idea for the stream
+[sound:rec_e223d7d6485d.mp3]	He always comes up with interesting solutions
+[sound:rec_6efe01b62b1a.mp3]	We need to come up with a plan B
+[sound:rec_83a90ef15c5b.mp3]	I did it on purpose - it was my choice
+[sound:rec_07d9dceeae7a.mp3]	I said it on purpose because I wanted to emphasize the importance
+[sound:rec_4c3e56ffad74.mp3]	Yes, I did it intentionally - I knew what I was doing
+[sound:rec_0bd583a38c07.mp3]	I wanted to emphasize how important it is
+[sound:rec_5d3345b9abad.mp3]	"She emphasized that the deadline wouldn&#x27;t change"
+[sound:rec_7445aa1a2e00.mp3]	This example emphasizes the main idea of the article
+[sound:rec_6e3967c15b8c.mp3]	I always emphasize the importance of feedback
+[sound:rec_8196d8675d36.mp3]	To emphasize his point, he gave an example
+[sound:rec_ee7c539765b3.mp3]	What have you come up with?
+[sound:rec_7bcc568ed195.mp3]	"I&#x27;m heading home"
+[sound:rec_503c98cb7c8e.mp3]	They headed towards the exit
+[sound:rec_4493bc0f651b.mp3]	Did you say that on purpose?
+[sound:rec_2114d86e7d7f.mp3]	How much champagne will we need for the launch?
+[sound:rec_2188cfadb16d.mp3]	Russia invaded Ukraine in 2014
+[sound:rec_0a8e74d55b23.mp3]	They occupied parts of the territory
+[sound:rec_19d0b30b86bb.mp3]	Many homes were destroyed
+[sound:rec_0f0c9441a239.mp3]	They deliberately targeted the hospital
+[sound:rec_e8e86927c4a2.mp3]	People hide in shelters to survive
+[sound:rec_1609f7de2e6d.mp3]	Russia launched a missile at a civilian target
+[sound:rec_c76024edca6c.mp3]	The missile strike was carried out in the morning while people were still sleeping
+[sound:rec_f83e49abc884.mp3]	Air defense forces shot down several enemy missiles
+[sound:rec_64ea1d47c193.mp3]	A fire broke out at the impact site
+[sound:rec_2a3ff63f5141.mp3]	It was a deliberate strike on a residential area
+[sound:rec_5023123d821a.mp3]	It was a terrorist attack on civilians
