@@ -1,0 +1,958 @@
+#separator:tab
+#html:false
+Ми входимо до будівлі через головний вхід	We enter the building through the main door
+Ми заходимо в магазин, щоб купити якогось молока	We enter the shop to buy some milk
+Вони заходять у будинок і знімають пальта	They enter the house and take off their coats
+Вона проходить повз парк дорогою додому	She passes the park on her way home
+Ми проходимо повз магазин і бачимо великий розпродаж(SImple)	We pass the shop and see a big sale
+Він проходить повз школу щоранку	He passes the school every morning
+Вони переходять міст і повертають ліворуч	They cross the bridge and turn left
+Вона підходить до вчителя з питанням	She approaches the teacher with a question
+Ми підходимо(наближаемося) до автобусної зупинки й перевіряємо час	We approach the bus stop and check the time
+Він обережно підходить до собаки	He carefully approaches the dog
+Вони підходять до столу і сідають	They approach the table and sit down
+Вона переходить вулицю на світлофорі	She crosses the street at the traffic light
+Ми переходимо дорогу і заходимо в парк	We cross the road and enter the park
+Він переходить міст через річку	He crosses the bridge over the river
+Вони переходять площу, щоб дістатися до музею	They cross the square to reach the museum
+Чи не міг би ти підвезти мене додому?	Could you give me a ride home?
+Він підвіз друга на роботу	He gave his friend a ride to work
+Вона часто підвозить брата до школи	She often gives her brother a ride to school
+Вона відвела дітей до школи	She took the kids to school
+Чи можеш ти відвезти мене в аеропорт?(Прохання)	Could you drive me to the airport?
+Він відвіз(повів) маму до лікаря	He took his mother to see the doctor
+Будь ласка, висади мене на автобусній зупинці	Please drop me off at the bus stop
+Він висадив сестру біля торгового центру	He dropped off his sister near the mall
+Вона висадила мене біля мого будинку	She dropped me off at my house
+Я заїду(заберу) за тобою о п'ятій	I will pick you up at five
+Чи можеш заїхати за мною після роботи?(можливість)	Can you pick me up after work?
+Він забрав сина зі школи	He picked up his son from school
+Діти навчаються швидко у своїх батьків	Children learn quickly from their parents
+Він вчиться водити машину(Continious)	He is learning to drive a car
+Вона навчилася грати на піаніно(факт)	She learned to play the piano
+Вона вивчає англійську по вечерам	She studies English in the evening
+Нам потрібно підготуватися до тесту	We need to study for the test
+Він навчається в університеті(Continious)	He is studying at the university
+Я вивчаю історію в школі	I study history at school
+Вона викладає математику в школі	She teaches math at school
+Ти можеш навчити мене плавати?(чи ти сам можеш)	Can you teach me to swim?
+Він навчає дітей як читати	He teaches children how to read
+Вона навчає мене англійської щодня	She teaches me English every day
+Він опанував англійську за два роки	He mastered English in two years
+Я хочу опанувати як користуватися комп'ютером	I want to master how to use a computer
+Він опанував нову програму швидко	He mastered the new program quickly
+Вона хоче опанувати кулінарні навички	She wants to master cooking skills
+Кому ти дзвониш щодня?	Who do you call every day?
+Хто дзвонить тобі щодня?	Who calls you every day?
+З ким ти зустрічаєшся по неділях?	Who do you meet on Sundays?
+Хто зустрічається з тобою по четвергах?	Who meets you on Thursdays?
+Чим вона займається в компанії?	What does she do in the company?
+Що робить цей фільм таким популярним?	What makes this film so popular?
+З ким ти працюєш?	Who do you work with?
+Хто працює в твоєму офісі?	Who works in your office?
+Що ти дивишся ввечері?(Зазвичай)	What do you watch in the evening?
+Що відбувається в цьому фільмі?	What happens in this movie?
+Кому вона дарує подарунки?	Who does she give presents to?
+Хто дарує тобі подарунки?	Who gives you gifts?
+У що вони грають влітку?	What do they play in summer?
+Що робить цю гру такою цікавою?	What makes this game so interesting?
+Кому він пише?	Who does he write to?
+Хто пише листи тобі?	Who writes letters to you?
+Чесно кажучи, мені важко в твою історію повірити | Чесно кажучи, я знаходжу твою історію важкою щоб повірити	Frankly, I find your story hard to believe
+Чесно, цей додаток не допомагає взагалі	Frankly, this app doesn't help at all
+Відверто кажучи, мені повністю набридла ця робота	Frankly, I'm completely fed up with this job
+Чесно, вона навіть не потурбувалася спробувати	Frankly, she didn't even bother to try
+Мабуть, поїзд знову затримався	Apparently, the train was delayed again
+Схоже, він збрехав усім без вагань	Apparently, he lied to everyone without hesitation
+Схоже, це навіть не її справжнє ім'я	Apparently, it's not even her real name
+Ймовірно, ми пропустили дедлайн на день	Apparently, we missed the deadline by a day
+Зрештою, йому вдалося(він справився) заплатити за оренду	Eventually, he managed to pay the rent
+Зрештою, вона знайшла(придумала) потрібні(правильні) слова	Eventually, she came up with the right words
+Зрештою, ми зіткнулися один з одним в аеропорту(PS)	Eventually, we ran into each other at the airport
+Врешті-решт вони в усьому зізналися	Eventually, they admitted everything
+Останнім часом я не вимикаю світло під час сну | Останнім часом я тримаю світло включеним коли я сплю	Lately, I've been keeping the light on while I sleep
+Останнім часом вона працює кожні вихідні	Lately, she's been working every weekend
+Останнім часом він підозріло(незвично) мовчазний	Lately, he's been unusually quiet
+Останнім часом ми замовляємо їжу на винос майже щовечора	Lately, we've been ordering takeaway almost every night
+Вона зробила крок уперед і тепло посміхнулася	She stepped forward and gave a warm smile
+Ми повинні(обов'язково) продовжувати рухатися вперед	We must keep moving forward
+Він нахилився вперед, намагаючись вловити кожне слово	He leaned forward, trying to catch every word
+Машина проповзла(прокралася) вперед крізь затор	The car crept forward through the traffic jam
+Він відступив(зробив крок) назад.	He stepped back
+Вона обернулася, але не побачила нічого позаду себе	She turned around but saw nothing behind her
+Машина повільно покотилася назад(по напрямку) вниз з пагорба	The car slowly rolled backwards down the hill
+Не відступай(крок назад) — продовжуй рухатися вперед	Don't step back - keep moving forward
+Ми повечеряли й потім попрямували додому	We had dinner and then headed home
+Давай подивимось фільм і поспілкуємось потім	Let's watch the movie and have a chat afterwards
+Вони пограли у футбол і з'їли(зжерли) піцу після цього	They played football and devoured pizza afterwards
+Вона пішла повільно до дверей, замислена(глибоко в думках)	She walked slowly toward the door, deep in thought
+Собака побіг радісно(емоція) до свого господаря	The dog ran joyfully toward its owner
+Він поглянув вгору на небо, всіяне зорями	He looked up at the sky full of stars
+Шкода, що тебе тут немає / Хотілося б, щоб ти був тут	I wish you were here
+Шкода, що я не знаю більше мов / Хотілося б, щоб я знав більше мов	I wish I knew more languages
+Шкода, що в них немає більше часу, щоб допомогти нам / Хотілося б, щоб у них було більше часу щоб допомогти нам	I wish they had more time to help us
+Шкода, що вона мене не слухає / Хотілося б, щоб вона мене послухала(у майбутньому)	I wish she would listen to me
+Шкода, що ми не ходимо в ресторани частіше / Хотілося б, щоб ми могли ходити до ресторанів частіше	I wish we could go to restaurants more often
+Шкода, що вона так пізно лягає спати / Хотілося б, щоб вона не лягала спати так пізно	I wish she didn't go to bed so late
+Шкода, що він їсть стільки шкідливої їжі / Хотілося б, щоб він не їв так багато шкідливої їжі	I wish he didn't eat so much junk food
+Шкода, що вони так багато сваряться / Хотілося б, щоб вони не сперечалися так багато	I wish they didn't argue so much
+Шкода, що вона погано готує / Хотілося б, щоб вона могла готувати краще	I wish she could cook better
+Шкода, що йому доводиться працювати щодня / Хотілося б, щоб йому не доводилося робити цю роботу щодня	I wish he didn't have to do this job every day
+Шкода, що я не вчився краще в школі / Хотілося б, щоб я навчався старанніше в школі	I wish I had studied harder at school
+Шкода, що вони не прийшли на вечірку / Хотілося б, щоб вони прийшли на вечірку(PP)	I wish they had come to the party
+Шкода, що він переїхав в інше місто / Хотілося б, щоб він не переїжджав	I wish he hadn't moved to another city
+Шкода, що вона перестала бути вчителькою / Хотілося б, щоб вона не припиняла працювати як вчитель	I wish she hadn't stopped working as a teacher
+Шкода, що він втратив гроші / Хотілося б, щоб він не втратив свої гроші	I wish he hadn't lost his money
+Шкода, що він сказав ті слова / Хотілося б, щоб він їх не говорив	I wish he hadn't said those words
+Я думаю, сьогодні буде дощ	I think it's going to rain today
+Вона вважає(знаходить) цей фільм нудним	She finds this film boring
+Ти думаєш, він прийде на зустріч?	Do you think he'll come to the meeting?
+Я думаю, їм потрібна якась допомога	I think they need some help
+Я здогадуюсь(думаю), ти втомився після роботи	I guess you are tired after work
+Можеш здогадатись, що я купив?	Can you guess what I bought?
+Можеш здогадатись, скільки це коштує?	Can you guess how much it costs?
+Здається(Я думаю що), ми запізнимося на автобус	I guess we'll be late for the bus
+Він вгадав відповідь правильно	He guessed the answer correctly
+Припускаю, нам слід іти	I suppose we should go
+Вона припускає(має підгрунтя), що вони скоро прийдуть(прибудуть)	She supposes they'll arrive soon
+Припускаю, ти не знаєш відповіді	I suppose you don't know the answer
+Давайте припустімо, що все буде добре	Let's assume everything will be fine
+Я припустив, що вона нам допоможе	I assumed she would help us
+Не думай(припускайте), що він погодиться з вами	Don't assume he'll agree with you
+Вони припустили, що магазин буде відкритий	They assumed the shop would be open
+Ми припускаємо, що ця інформація правдива(відповідає дійсності)	We assume this information is true
+Він пішов(залишив) одразу(не гаючи часу) після зустрічі	He left immediately after the meeting
+Мені потрібен цей звіт негайно(швидкість)	I need this report immediately
+Зателефонуй мені одразу, якщо виникнуть(матимеш) будь-які питання	Call me immediately if you have any questions
+Вона одразу відповіла на дзвінок	She immediately answered the call
+Це завдання потрібно виконати терміново	This task needs to be done urgently
+Ми повинні(приказ) залишити це місце терміново(Важливість)	We must leave this place urgently
+Лікар є терміново потрібен(потрібним) у лікарню	A doctor is urgently needed at the hospital
+Ти можеш допомогти мені з цим завданням терміново(Важливість)?	Can you help me with this task urgently?
+Він швидко усвідомив свою помилку	He quickly realized his mistake
+Вони вирішили проблему швидко	They solved the problem quickly
+Будь ласка, дай мені знати заздалегідь, якщо не зможеш прийти	Please let me know in advance if you can't come
+Нам потрібно запланувати це заздалегідь	We need to plan this in advance
+Я підготував усе заздалегідь	I prepared everything in advance
+Я закінчив(покінчив) прибирання(речі)	I'm done the clearing
+Я закінчив поливати рослини	I've finished watering the plants
+Мені замовити таксі на пів на сьому? Давайте без чверті сьома, щоб бути впевненими.	Shall I order the taxi for half past six? Let's make it quarter to seven, just to be sure
+Можеш забрати мою тітку о дев'ятій? Добре, але я можу запізнитися на п'ять хвилин	Can you pick up my aunt at nine? Ok, but I might be five minutes late
+О котрій у тебе сьогодні співбесіда? О десятій, але мені треба бути там до дев'ятої. Успіхів!	What time's your interview today? It's at ten, but I need to be there by nine. Good luck!
+Ей(привіт), ти вільний щоб сходити випити у вівторок? Так(я вільний), але я не зможу залишатися допізна	Hey, are you free for a drink on Tuesday? I'm, but I can't have a late one
+О котрій хочеш зустрітись? Як щодо сьомої? Гаразд, до зустрічі тоді	What time do you want to meet? How about seven? Ok, see you then
+Вибач, ми не зможемо зайти  наступної суботи. Не хвилюйся(Та нічого), може тоді в неділю натомість? Неділя нас влаштовує	Sorry, we can't come over next Saturday. No worries, shall we do Sunday instead? Sunday is good with us
+Треба бігти. Побачимось на зустрічі завтра? Однозначно, зустріну(зловлю) тебе там	Got to run. See you at the meeting tomorrow? Definitely, catch you there
+Було дуже приємно поспілкуватися(за життя) з тобою. Давай зробимо це ше раз незабаром/скоро	Great to catch up with you. Let's do it again soon
+Мені дуже шкода, що я забув про твій день народження. Нічого особливого(Нічого страшного)	I'm really sorry I forgot your birthday. No big deal
+О ні, твоя кофтинка(верхній одяг). Я її зіпсував(накосячив). Нічого(це нормально), це відійде під час прання	Oh no, your top. I've messed it up. It's ok, it'll come out in the wash
+Мені було шкода чути, що ти був хворий. Дякую, Я почуваюся значно краще зараз	I was sorry to hear you've been ill. Thanks, I'm feeling much better now
+Я вибачаюся що турбую тебе, але міг би ти допомогти мені? Без проблем, Що тобі потрібно?	I'm sorry to bother you, but could you help me? No problem, what do you need?
+Я винен(на) тобі вибачення(Я маю перед тобою вибачитися) за свою поведінку. Не хвилюйся, я розумію	I owe you an apology for my behavior. Don't worry, I understand
+Співчуваю твоїй втраті. Дякую, я ціную це	I'm sorry for your loss. Thanks, I appreciate it
+Я не можу висловити, наскільки я вдячний(Я не можу дякувати достатньо) за твою допомогу. Не згадуйте про це(Не варто), я радий що я міг допомогти	I can't thank you enough for your help. Don't mention it, I'm glad I could help
+Ти добре виглядаєш. Дякую, ти теж	You're looking well. Thanks, so are you
+Я тобі винен(Я тобі зобов'язаний) (одну добру справу). Нема проблем, Я радий(мені це приносить задоволення) допомогти	I owe you one. No problem, I'm happy to help
+Такий гарний день. Може кудись підемо?	It's such a nice day. Shall we go somewhere?
+Я подивлюсь(кину погляд)	I'll have a look
+Я придумав класну ідею для стріму	I came up with a cool idea for the stream
+Він завжди пропонує цікаві рішення	He always comes up with interesting solutions
+Ми повинні придумати план B	We need to come up with a plan B
+Я зробив це навмисно — це був мій вибір	I did it on purpose - it was my choice
+Я сказав це навмисно, бо хотів підкреслити важливість(Past simple)	I said it on purpose because I wanted to emphasize the importance
+Так, я це зробив свідомо(синонім! int...) — я знав, що роблю	Yes, I did it intentionally - I knew what I was doing
+Я хотів підкреслити, наскільки важливо це	I wanted to emphasize how important it is
+Вона підкреслила, що дедлайн не зміниться	She emphasized that the deadline wouldn't change
+Цей приклад підкреслює головну ідею статті	This example emphasizes the main idea of the article
+Я завжди підкреслюю важливість зворотного зв'язку	I always emphasize the importance of feedback
+Щоб підкреслити свою точку зору, він навів(надав) приклад	To emphasize his point, he gave an example
+Що ти придумав?	What have you come up with?
+Я прямую додому	I'm heading home
+Вони попрямували(по напрямку) до виходу	They headed towards the exit
+Ти то сказав спеціально?	Did you say that on purpose?
+Скільки шампанського нам знадобиться для запуску?	How much champagne will we need for the launch?
+Російська Федерація вторглася в Україну в 2014 році	The Russian Federation invaded Ukraine in 2014
+Вони окупували частини територій	They occupied parts of the territory
+Багато будинків було зруйновано(personal)	Many homes were destroyed
+Вони свідомо цілили в лікарню	They deliberately targeted the hospital
+Люди ховаються в укриттях, щоб вижити	People hide in shelters to survive
+Російська Федерація запустила ракету по цивільній цілі	The Russian Federation launched a missile at a civilian target
+Ракетний удар було здійснено(виконаний) вранці, поки люди ще спали	The missile strike was carried out in the morning while people were still sleeping
+Сили ППО збили декілька ворожих ракет	Air defense forces shot down several enemy missiles
+Пожежа спалахнула на місці удару	A fire broke out at the impact site
+Це був навмисний удар по житловому району	It was a deliberate strike on a residential area
+Це був терористичний напад на мирних людей	It was a terrorist attack on civilians
+Діти були поранені внаслідок(в) повітряного удару	Children were injured in the airstrike
+Напад був спланований заздалегідь	The attack was planned in advance
+Російські збройні сили атакували міста на світанку	Russian forces attacked the cities at dawn
+Вони пережили(вижили) масовану ракетну атаку(удар)	They survived a massive missile strike
+Компанія планує запуск нового продукту наступної весни	The company plans to launch the new product next spring
+Ми офіційно запускаємо цей проєкт сьогодні(P Cont)	We are officially launching this project today
+Вони запустили нову рекламну кампанію	They launched a new advertising campaign
+Час запустити цю ідею у світ	It's time to launch this idea into the world
+Коли наступний альбом буде випущеним?	When will the next album be released?
+Фільм вийде у прокат наступного тижня	The movie will be released next week
+Ми щойно випустили оновлену версію програми(про результат)	We've just released an updated version of the app
+Новини були офіційно оприлюднені	The news was officially released
+Я готовий повністю присвятити себе цій ідеї	I'm ready to fully commit to this idea
+Він не хоче брати на себе зобов'язання(ні до чого)	He doesn't want to commit to anything
+Ми повинні взяти на себе зобов'язання завершити цей проект	We must commit to completing this project
+Вона пообіцяла(зобовʼязалася) присвятити більше часу навчанню	She committed to spending more time studying
+Я не хочу робити зобов'язань, якщо не впевнений	I don't want to commit if I'm not sure
+Ця країна розвивається швидко(стрімко)(PC)	This country is developing rapidly
+Він розвинув сильні комунікативні навички(PrePer)	He's developed strong communication skills
+Нам потрібно розробити кращий план	We need to develop a better plan
+Діти розвивають свої здібності граючись(через гру)	Children develop their skills through play
+Я розвиваю власний бізнес з нуля(PC)	I'm developing my own business from scratch
+Вибач, я не зрозумів	Sorry, I didn't understand
+Можеш повторити то будь ласка?	Could you repeat that, please?
+Я заплутався	I'm confused
+Зачекай, я не встигаю за тобою	Wait, I don't follow you
+Я не зовсім розумію	I don't quite understand
+Я все переплутав(Я маю все змішаним)	I got everything mixed up
+Я мабуть переплутав час(про результат)	I must have confused the time
+Я думав, що це буде завтра	I thought it would be tomorrow
+Я неправильно прочитав інструкції	I misread the instructions
+Я неправильно зрозумів	I misunderstood
+Чи не могли б ви пояснити це ще раз, крок за кроком?	Could you explain this again, step by step?
+Просто щоб уточнити…	Just to clarify...
+Дозвольте мені переконатися, що я це правильно зрозумів.(PrePerf)	Let me make sure I've got this right
+я щось(типу) заплутався(загубився) (тут)	I'm kinda lost here
+Чи можете ви пояснити це простими словами?	Can you explain this in simple terms?
+Я був повністю відключений(відсторонений) і я не чув, що вона говорила	I was totally zoned out and didn't hear what she said
+Я роблю зусилля(борюсь) щоб не відставати(щоб встигати)	I'm struggling to keep up
+Вони проводять тестування щотижня	They carry out testing every week
+Ми виконали складну операцію вчора	We carried out a complex operation yesterday
+Це дослідження буде проведене у вересні	This research will be carried out in September
+Команді доручили виконати важливу місію	The team was assigned to carry out an important mission
+Чи ви колись проводили польовий експеримент?	Have you ever carried out a field experiment?
+Нам потрібно виконати інструкції крок за кроком	We need to carry out the instructions step by step
+Я раніше жив біля моря	I used to live near the sea
+Вона раніше їздила на роботу велосипедом	She used to cycle to work
+Ми раніше часто відвідували нашу бабусю на вихідних	We used to visit our grandma on weekend
+Ти колись раніше грав у футбол?	Did you use to play football?
+Він більше не палить, але раніше курив по дві пачки на день	He doesn't smoke anymore, but he used to smoke two packs a day
+Я не звик до такого типу погоди	I'm not used to this kind of weather
+Він схильний(має тенденцію до) перебільшувати	He tends to exaggerate
+Люди в цьому регіоні схильні рано просинатися	People in this region tend to wake up early
+Діти схильні наслідувати(імітувати) своїх батьків	Children tend to imitate their parents
+Я помітив, що ми схильні забувати важливі дати	I've noticed we tend to forget important dates
+Собаки схильні бути вірними(відданими) своїм господарям	Dogs tend to be loyal to their owners
+Чи ти схильний уникати конфліктів?	Do you tend to avoid conflicts?
+Він любить залучати аудиторію до(в) дискусії	He likes to engage the audience in discussion
+Ми намагаємось залучити більше молоді до(в) волонтерства	We're trying to engage more youth in volunteering
+Вона активно бере участь у місцевих проектах	She actively engages in local projects
+Ти коли-небудь брав участь у дебатах?	Have you ever engaged in a debate?
+Нам вдалося залучити клієнтів через соцмережі	We managed to engage customers through social media
+Усі дороги сходяться на головній площі	All the roads converge at the main square
+Наукові ідеї з різних сфер(галузей) починають сходитися(зближуватися) (PC)	Scientific ideas from different fields are beginning to converge
+Лінії на графіку сходяться у цій точці	The lines on the graph converge at this point
+Натовп зібрався біля головної сцени	The crowd converged near the main stage
+Іноді люди з різним походженням(різною підготовкою) сходяться в погляді(переконанні)	Sometimes people from different backgrounds converge in opinion
+Коли інтереси збігаються, можлива співпраця	When interests converge, cooperation becomes possible
+Ми намагаємося підтримувати стабільний зв'язок	We try to maintain a stable connection
+Їй важко зберігати рівновагу на ковзанах	She finds it hard to maintain balance on skates
+Він зумів зберегти спокій у критичній ситуації	He managed to keep calm in a critical situation
+Важливо підтримувати хороші стосунки з колегами	It's important to maintain good relationships with colleagues
+Компанія не змогла підтримувати попередній рівень прибутку	The company couldn't maintain its previous level of profit
+Цей автомобіль легко обслуговувати	This car is easy to maintain
+Я ніколи не здамся, поки не досягну своєї мети	I'll never give up until I reach my goal
+Ти здався занадто рано	You gave up too early
+Можеш здатися, якщо хочеш, але я не здамся	You can give up if you want, but I won't
+Я вже збирався здатися, але вона мене підтримала(підбадьорила)	I was about to give up, but she encouraged me
+Він сказав, що не здаватиметься   більше	He said he wouldn't give up anymore
+Якщо ти здасися зараз, ти пошкодуєш	If you give up now, you'll regret it
+Вона була досить хороброю, щоб сказати правду	She was brave enough to tell the truth
+Тобі доведеться бути сміливим і розповісти своїм батькам.	You'll have to be brave and tell your parents
+Вони боролися хоробро до кінця	They fought bravely until the end
+Я захоплююсь людьми, які можуть бути хоробрими в кризових ситуаціях	I admire people who can be brave in crisis situations
+Чи вважаєш ти себе хороброю людиною?	Do you consider yourself a brave person?
+Я пишаюсь тобою!(Я є гордим за тебе)	I'm proud of you!
+Вона була дуже горда, коли отримала роботу	She was very proud when she got the job
+Ми завжди будемо пишатися своїми батьками	We'll always be proud of our parents
+Ти виглядаєш так, ніби чимось дуже пишаєшся	You look like you're really proud of something
+Він не хотів просити про допомогу, бо був занадто гордий	He didn't want to ask for help because he was too proud
+Я ніколи не була такою гордою за себе, як сьогодні	I've never been as proud of myself as I'm today
+Вовки полювали на оленів цілу ніч	The wolves hunted deer all night
+Хижаки завжди полюють на слабших	Predators always prey on the weak
+Він був аферистом(шахраєм) що полював(обдурював) на довірливих людей	He was a scammer who preyed on trusting people
+Вони полювали на наші страхи та сумніви	They preyed on our fears and doubts
+Ці шахраї полювали на людей похилого віку роками(PPC)	These fraudsters had been preying on the elderly for years
+Ми маємо зупинити тих, хто наживається на чужому горі	We must stop those who prey on others' misfortune
+Вона пожертвувала всім заради своєї родини	She sacrificed everything for her family
+Солдати принесли велику жертву	The soldiers made a great sacrifice
+Ми мусили пожертвувати вихідними, щоб закінчити проект	We had to sacrifice our weekends to finish the project
+Ніхто не повинен жертвувати своїм щастям заради інших	No one should sacrifice their happiness for the sake of others
+Я б пожертвував будь-чим(усім), якби міг повернутися в той день	I would sacrifice anything if I could go back to that day
+Це була необхідна жертва	It was a necessary sacrifice
+Ми нарешті досягли вершини гори	We finally reached the top of the mountain
+Він не може дотягнутися до верхньої полиці	He can't reach the top shelf
+Як тільки ти досягнеш станції, подзвони мені	As soon as you reach the station, call me
+Вона досягла великого успіху в бізнесі	She has reached great success in business
+Чи зможемо ми досягти домовленості сьогодні?	Can we reach an agreement today?
+Вона скоро відповість	She'll reply shortly
+Нарада розпочнеться незабаром	The meeting will start shortly
+Я зв'яжусь з вами найближчим часом	I'll contact you shortly
+Вони оголосять результати дуже скоро	They'll announce the results shortly
+Ми надаємо підтримку кожному клієнту.	We provide support to every customer
+Чи можете ви надати додаткову інформацію?	Can you provide additional information?
+Він забезпечив нас (з)усім необхідним.	He provided us with everything we needed
+Ця програма надає доступ до онлайн-курсів.	This program provides access to online courses
+Держава повинна забезпечити базові потреби.	The state must provide basic needs
+Будь ласка, закрий двері.	Please shut the door
+Він закрив ноутбук швидко.	He shut the laptop quickly
+Вони закрили магазин назавжди.	They shut the store down for good
+Вітер зачинив вікно сам.	The wind shut the window by itself
+Вона вийшла і грюкнула дверима за собою	She left and shut the door behind her
+Вони змусили нас підписати документ.	They forced us to sign the document
+Я не хочу змушувати тебе робити це.	I don't want to force you to do it
+Його змусили вийти з кімнати.	He was forced to leave the room
+Ситуація змусила її змінити свою думку.	The situation forced her to change her mind
+Він змусив себе посміхнутись.	He forced himself to smile
+Ми перенесли зустріч на понеділок.	We carried the meeting over to Monday
+Залишок бюджету буде перенесено на наступний рік.	The leftover budget will be carried over to next year
+Їхня суперечка перейшла у наступний день.	Their argument carried over into the next day
+Вона перенесла свої плани на потім(пізніший термін)	She carried her plans over to a later date
+Ми не можемо перенести цю проблему на завтра.	We can't carry this issue over to tomorrow
+Я не зміг відповісти на запитання.(треба звучати точніше або формальніше)	I wasn't able to answer the question
+Вона не здатна брехати.	She's not able to lie
+Ми змогли(вдалося) завершити проєкт вчасно.	We were able to finish the project on time
+Якщо ти будеш продовжувати спроби, ти зможеш це зробити.	If you keep trying, you'll be able to do it
+Він не зможе допомогти тобі завтра.	He won't be able to help you tomorrow
+Я сумніваюсь, що він скаже правду.	I doubt he'll tell the truth
+Вона ніколи не сумнівалась у собі.	She never doubted herself
+Є сумніви щодо його рішень(вибору)	There are doubts about his decisions
+У мене немає жодних сумнівів у твоїх намірах.	I have no doubts about your intentions
+Ти сумніваєшся в тому, що бачиш?	Do you doubt what you see?
+Музика відволікала мене від роботи	The music distracted me from my work
+Вибач, Я не мав наміру(я не хотів) тебе відволікати	Sorry, I didn't mean to distract you
+Діти постійно відволікають(продовжують відволікати) вчителя	The children keep distracting the teacher
+Його відволік телефонний дзвінок	He was distracted by a phone call
+Можемо ввімкнути телевізор, щоб відволікти себе трохи(фокус на дії, що ми себе відволікаємо)	We can turn on the TV to distract ourselves a bit
+Цей замок має(є призначеним щоб) запобігти крадіжці	This lock is meant to prevent theft
+Вакцина допомагає запобігти хворобі	The vaccine helps to prevent the disease
+Він зробив усе можливе що він міг, щоб запобігти аварії	He did everything he could to prevent the accident
+Ми не змогли запобігти витоку інформації	We couldn't prevent the data leak
+Регулярні вправи можуть запобігти багатьом хворобам	Regular exercise can prevent many illnesses
+Ми плануємо збільшити обсяги виробництва	We plan to increase production volumes
+Температура поступово зростала(PastC)	The temperature was gradually increasing
+Ціни зросли знову минулого тижня	Prices increased again last week
+Фізичне навантаження може підвищити ваш рівень енергії	Exercise can increase your energy level
+Вони намагаються збільшити кількість клієнтів(PC)	They're trying to increase the number of customers
+Вона вирішила оселитися назавжди у Франції(PastP)	She had decided to settle permanently in France
+Цей файл буде назавжди видалено	This file will be permanently deleted
+Вона залишила(звільнилась) роботу назавжди	She quit her job permanently
+Це лише тимчасове рішення	This is just a temporary solution
+Він знайшов тимчасову роботу на літо	He found a temporary job for the summer
+Міст тимчасово закрили на ремонт	The bridge was temporarily closed for repairs
+Її офіс (є) у тимчасовому приміщенні	Her office is in a temporary building
+Біль є тимчасовим, результат — назавжди	Pain is temporary, but the result is forever
+Це несправедливо по відношенню до інших учасників	That's unfair to the other participants
+Було несправедливо звинувачувати його без доказів	It was unfair to accuse him without evidence
+Це правило здається дуже несправедливим мені	This rule seems very unfair to me
+Ціни зросли(пішли в гору), і це несправедливо щодо(для) покупців	The prices went up, and that's unfair to customers
+Він відчував, що з ним поводяться несправедливо	He felt he was being treated unfairly
+Як ти можеш виправдати свою поведінку?	How can you justify your behavior?
+Він спробував виправдати витрати	He tried to justify the expenses
+Ніщо не може виправдати насильство	Nothing can justify violence
+Ти маєш пояснити і виправдати свої рішення	You need to explain and justify your decisions
+Цей вчинок не може бути виправданим	This action cannot be justified
+Ми маємо скористатися цією можливістю	We must capitalize on this opportunity
+Він не зміг(зазнав невдачі) скористатися перевагами	He failed to capitalize on the advantages
+Вони хочуть отримати прибуток з бренду	They want to capitalize on the brand
+Навчися використовувати(отримувати вигоду від) свої сильні сторони	Learn to capitalize on your strengths
+Компанія скористалася попитом	The company capitalized on the demand
+Він дуже сильний у плані(з точки зору) фізичної форми	He is very strong in terms of physical fitness
+Цей рік був важкий(складним) щодо фінансів(розмовний)	This year was tough, finance-wise
+Ми досягли(зробили) прогресу щодо якості продукції(fact)	We've made progress in terms of product quality
+Цей проєкт важливий у контексті довгострокових цілей	This project is important in terms of long-term goals
+У плані дизайну Я віддаю перевагу цій версіі	In terms of design, I prefer this version
+Він отримав удар ножем під час бійки	He got stabbed up during the fight
+Жертву кілька разів вдарили ножем	The victim was stabbed up several times
+Когось порізали жорстоко біля станції	Someone was stabbed up badly near the station
+Він вижив після того, як його вдарили ножем	He survived after being stabbed
+Його знайшли пораненим ножем у квартирі	He was found stabbed up in the flat
+Я дуже ціную твою допомогу сьогодні	I really appreciate your help today
+Вона не усвідомлює(розуміє - процес), як сильно(як багато) він її цінує	She doesn't realize how much he appreciates her
+Я б оцінив трохи тиші, дякую	I'd appreciate a bit of silence, thank you
+Ми всі оцінили його чесність	We all appreciated his honesty
+Ти навчишся цінувати це з часом	You'll learn to appreciate it over time
+Подивись на це відео, воно веселe(смішне)	Watch this video, it's hilarious
+Нам слід уникати цього району вночі	We should avoid this area at night
+Вона уникає розмов про роботу	She avoids talking about work
+Я намагався уникнути конфлікту	I tried to avoid a conflict
+Уникай цукру, якщо хочеш схуднути	Avoid sugar if you want to lose weight
+Чому ти уникав мене вчора?	Why did you avoid me yesterday?
+Тримайся подалі від того собаки	Keep away from that dog
+Вона тримається подалі від соцмереж	She keeps away from social media
+Тримай дітей подалі від кухні	Keep the kids away from the kitchen
+Вони намагались триматись подалі від політики	They tried to keep away from politics
+Тримайся подалі від нього, коли він злий	Keep away from him when he's angry
+Куріння шкідливе для твого здоров'я	Smoking is harmful to your health
+Деякі хімікати шкідливі для шкіри	Some chemicals are harmful to the skin
+Він поширює шкідливу інформацію	He spreads harmful information
+Це може бути шкідливим для дітей	This can be harmful to children
+Навіть надмірне тренування може бути шкідливим	Even overtraining can be harmful
+Він наполягав, незважаючи на всі труднощі	He persisted despite all the difficulties
+Вона продовжує ставити ті самі запитання | Вона наполегливо ставить одні й ті самі запитання	She persists in asking the same questions
+Якщо біль зберігається, зверніться до лікаря	If the pain persists, see a doctor
+Вони не здавалися(наполегливо тримались) до самого кінця	They persisted until the end
+Проблема все ще не зникла – вона триває	The issue still hasn't gone away - it persists
+Ця гра мене розчаровує!	This game frustrates me!
+Він був розчарований через повільний інтернет	He was frustrated by the slow internet
+Він не зміг її переконати, і це його розчаровувало(дратувало)	He couldn't convince her, and it frustrated him
+Ми були розчаровані, що нічого не працювало	We were frustrated that nothing worked
+Люди розчаровані політиками	People are frustrated with the politicians
+У мене безліч інших справ(щоб робити), окрім спілкування з тобою.	I've got plenty of other things to do besides talking to you
+Я нічого не їв, крім яблука	I ate nothing besides an apple
+Крім того, я запізнююся	Besides, I'm running late
+Що ще ти вмієш, крім програмування?	What else can you do besides programming?
+Я не знав(не був обізнаним) про ці зміни	I wasn't aware of these changes
+Вона добре обізнана в цих темах	She's very aware of these topics
+Усвідомлюйте свої слова	Be aware of your words
+Він не усвідомлює, наскільки важливо це	He's not aware of how important this is
+Я завжди усвідомлював ризик(Present Perfect)	I've always been aware of the risk
+Цей вчитель вплинув на мене дуже	This teacher influenced me a lot
+Музика сильно впливає на наш настрій	Music greatly influences our mood
+Політика впливає на кожну сферу життя	Politics influences every aspect of life
+Він легко піддається впливу думок інших людей	He's easily influenced by other people's opinions
+Вони мають великий вплив на громаду	They have a big influence on the community
+Фабрика забруднює повітря	The factory pollutes the air
+Не забруднюй річку сміттям	Don't pollute the river with trash
+Люди забруднили навіть океан	People have polluted even the ocean
+Це підприємство більше не буде забруднювати довкілля	This company will no longer pollute the environment
+Не витріщайся на мене так!	Don't stare at me like that!
+Вона витріщалася у вікно цілу годину	She stared out the window for an hour
+Діти мовчки дивились на вчителя	The kids silently stared at the teacher
+Він втупився в екран, не моргаючи	He stared at the screen without blinking
+Я помітив, що всі витріщалися на мене.	I noticed everyone was staring at me
+Ми вирішили оселитися в Шотландії	We decided to settle in Scotland
+Він зрештою оселився в Лондоні	He eventually settled in London
+Давай вирішимо це мирно	Let's settle this peacefully
+Пил осів на меблях	The dust settled on the furniture
+Вони ще не визначилися, де жити	They haven't settled on a place to live yet
+Не нюхай їжу, це некультурно	Don't sniff the food, it's rude
+Він підніс квітку до носа і понюхав	He brought the flower to his nose and sniffed
+Пес винюхував щось у траві	The dog was sniffing around in the grass
+Він нюхав повітря, намагаючись уловити аромат	He sniffed the air, trying to catch the scent
+Я більше не можу цього терпіти!	I can't take it anymore!
+Мені набридла ця ситуація.	I'm fed up with this situation
+Я вже не витримую цей біль.	I can't stand this pain any longer
+Мені остогидли їхні сварки.	I'm sick and tired of their arguments
+Це випробовує моє терпіння.	This is testing my patience
+Якщо це триватиме далі, я здамся.	If this continues, I'll give up
+Я більше не можу працювати ночами.	I can't keep working night shifts anymore
+Це мене виснажує.	It's wearing me out
+Я відчуваю, що ось-ось зірвуся.	I feel like I'm about to snap
+Я вже на межі.	I'm at my limit
+Я не можу більше це ігнорувати.	I can't ignore this any longer
+Це було останньою краплею.	That was the last straw
+Вона нарешті прийняла ситуацію такою, якою вона є.	She finally accepted the situation as it is
+Прийняття себе — це важливий крок до щастя.	Acceptance of oneself is an important step toward happiness
+Ми маємо навчитися приймати зміни.	We have to learn to accept change
+Було нелегко, але він поступово звикав до нового середовища.	It wasn't easy, but he gradually came to accept the new environment
+Я не думаю, що він коли-небудь прийме її вибір.	I don't think he'll ever accept her decision
+Вона подивилась на нього з щирим захопленням.	She looked at him with genuine admiration
+Я завжди захоплювався її відданістю роботі.	I've always admired her dedication to work
+Її хоробрість викликала загальне захоплення.	Her bravery drew everyone's admiration
+Ми стояли в захопленні перед краєвидом.	We stood in admiration of the view
+Твоя праця варта захоплення.	Your work deserves admiration
+Він ставився до своєї собаки з великою ніжністю.	He treated his dog with great affection
+Мені приємно відчувати твою прихильність.	I appreciate feeling your affection
+Вона показала свою ніжність, тримаючи його за руку.	She showed her affection by holding his hand
+Дідусь завжди говорив з онуками з теплотою.	Grandpa always spoke to his grandchildren with affection
+У її голосі була нотка ніжності.	There was a note of affection in her voice
+Його коментарі лише загострили ситуацію.	His comments only caused further aggravation
+Мене дратує, коли люди спізнюються.	It causes me aggravation when people are late
+Її мовчання лише погіршувало проблему.	Her silence added to the aggravation
+Він уникав розмови, щоб не викликати роздратування.	He avoided the talk to prevent aggravation
+Твоя байдужість — суцільне роздратування.	Your indifference is pure aggravation
+Його гнів був помітний у кожному русі.	His anger was visible in every movement
+Я намагалася приховати свій гнів, але не змогла.	I tried to hide my anger, but I couldn't
+Вона вибухнула від гніву, коли дізналася правду.	She exploded with anger when she learned the truth
+Гнів — поганий порадник.	Anger is a bad adviser
+Їхні обличчя були червоні від люті.	Their faces were red with anger
+Вона кричала від душевного болю.	She screamed in anguish
+Його обличчя було сповнене муки, коли він почув новину.	His face was full of anguish when he heard the news
+Це рішення далося мені з великим болем.	I made that decision with deep anguish
+Її щоденник був наповнений словами болю й самотності.	Her diary was filled with words of anguish and loneliness
+Він пережив багато душевних страждань після втрати сина.	He went through a lot of emotional anguish after losing his son
+Я прокинувся серед ночі з відчуттям тривоги.	I woke up in the middle of the night with a sense of anxiety
+Вона відчувала тривогу перед іспитом.	She felt anxiety before the exam
+Хронічна тривожність заважає мені зосередитися.	Chronic anxiety keeps me from focusing
+Ми всі переживали через затримку рейсу.	We were all filled with anxiety about the delayed flight
+Його тривога була помітна навіть ззовні.	His anxiety was visible even on the outside
+Між ними відчувалась сильна симпатія.	There was a strong attraction between them
+Цей парк — головна туристична принада міста.	This park is the city's main tourist attraction
+Я не можу пояснити, чому мене до нього тягне.	I can't explain my attraction to him
+Її притягувала ідея життя за кордоном.	She felt an attraction to the idea of living abroad
+Він не приховував свого захоплення нею.	He didn't hide his attraction to her
+Я читаю цю книжку лише від нудьги.	I'm reading this book just out of boredom
+Він ледве не заснув від нудьги на зустрічі.	He almost fell asleep from boredom at the meeting
+Їхнє життя було рутинне й наповнене нудьгою.	Their life was routine and full of boredom
+Нудьга змусила мене знову відкрити старе хобі.	Boredom made me pick up my old hobby again
+Діти часто скаржаться на нудьгу під час канікул.	Kids often complain about boredom during holidays
+Він підійшов до незнайомця з великою обережністю.	He approached the stranger with great caution
+Будь обережним, ця дорога слизька.	Proceed with caution, this road is slippery
+Її слова були обережними, але точними.	Her words were cautious but precise
+Поліція попередила мешканців бути обережними.	The police advised the residents to act with caution
+Вони діяли з пересторогою, щоб не наробити шкоди.	They acted with caution to avoid causing harm
+Вона говорила з такою впевненістю, що ніхто не сумнівався.	She spoke with such certainty that no one doubted her
+Я не можу сказати з певністю, коли він повернеться.	I can't say with certainty when he'll be back
+Його відповідь була впевненою і точною.	His answer was full of certainty and precision
+У науці немає абсолютної певності.	In science, there is no absolute certainty
+Він діяв так, ніби був повністю впевнений у своїх діях.	He acted as if he had complete certainty in what he was doing
+Вона проявила щире співчуття до бездомного.	She showed genuine compassion to the homeless man
+Співчуття — це те, що робить нас людьми.	Compassion is what makes us human
+Лікар вислухав мене з розумінням і співчуттям.	The doctor listened to me with understanding and compassion
+Він завжди ставиться до інших з милосердям.	He always treats others with compassion
+У складні часи важливо зберігати співчуття.	In difficult times, it's important to keep our compassion
+Я відчуваю більшу впевненість після підготовки.	I feel more confidence after preparing
+Її впевненість вразила всіх присутніх.	Her confidence impressed everyone present
+Тренер допоміг йому знайти віру в себе.	The coach helped him build his confidence
+З такою впевненістю ти точно досягнеш успіху.	With that confidence, you're bound to succeed
+Він втратив упевненість після невдачі.	He lost his confidence after the failure
+Було видно його розгубленість на обличчі.	His confusion was visible on his face
+В інструкціях була повна плутанина.	The instructions were full of confusion
+Її слова лише додали плутанини.	Her words only added to the confusion
+У момент розгубленості я не знав, що сказати.	In a moment of confusion, I didn't know what to say
+Конфлікт викликав чимало непорозумінь і плутанини.	The conflict caused a lot of misunderstandings and confusion
+Вона сиділа в тиші з відчуттям повного задоволення.	She sat in silence with a sense of complete contentment
+Він знайшов спокій у простому сільському житті.	He found contentment in simple rural life
+Їхній шлюб був наповнений гармонією й задоволенням.	Their marriage was filled with harmony and contentment
+Не плутай щастя із задоволенням.	Don't confuse happiness with contentment
+Вона усміхалась з внутрішнім спокоєм на обличчі.	She smiled with contentment on her face
+Він зібрав усю свою сміливість і сказав правду.	He gathered all his courage and told the truth
+Її відвага надихає інших не здаватися.	Her courage inspires others not to give up
+Іноді потрібно мати сміливість, щоб піти.	Sometimes it takes courage to walk away
+Вони показали справжню відвагу під час рятувальної операції.	They showed real courage during the rescue operation
+Без відваги неможливо подолати страх.	Without courage, it's impossible to overcome fear
+Його цікавість до науки почалася ще в дитинстві.	His curiosity about science started in childhood
+Вона задала багато питань через свою допитливість.	She asked a lot of questions out of curiosity
+Цікавість привела її до дивовижного відкриття.	Curiosity led her to an amazing discovery
+Не стримуй свою цікавість — це двигун знань.	Don't hold back your curiosity — it drives knowledge
+Він подивився на мене з цікавістю в очах.	He looked at me with curiosity in his eyes
+Поразка була болісною, але вона навчила його багато чого.	The defeat was painful, but it taught him a lot
+Вони не могли прийняти свою поразку.	They couldn't accept their defeat
+Ми перемогли суперника без жодної поразки.	We beat the opponent without a single defeat
+Він відчував себе спустошеним після поразки.	He felt devastated after the defeat
+Поразка — це не кінець, а початок нового етапу.	Defeat is not the end but the start of a new phase
+Вона подивилася на нього з відкритою зухвалістю.	She looked at him with open defiance
+Їхній протест був актом опору проти несправедливості.	Their protest was an act of defiance against injustice
+Він стояв нерухомо, повний виклику і сили.	He stood still, full of defiance and strength
+Це була тиха, але потужна форма опору.	It was a quiet but powerful form of defiance
+Його слова були сповнені зухвалого виклику.	His words were filled with defiant defiance
+Діти кричали від радості, побачивши сніг.	The children screamed with delight when they saw the snow
+Це була справжня насолода — слухати її спів.	It was a real delight to listen to her sing
+Вона з радістю погодилася на пропозицію.	She accepted the offer with delight
+Його очі світилися від захоплення.	His eyes sparkled with delight
+Мене завжди тішить твоя компанія.	Your company always brings me delight
+Її залежність від батьків тривала довше, ніж очікувалося.	Her dependence on her parents lasted longer than expected
+Надмірна залежність від технологій може бути шкідливою.	Excessive dependence on technology can be harmful
+Вони виявили повну залежність від зовнішньої допомоги.	They showed complete dependence on outside support
+Він намагався подолати залежність від кави.	He tried to overcome his dependence on coffee
+Їхня економіка сильно залежала від експорту.	Their economy had a strong dependence on exports
+Після втрати роботи він впав у депресію.	He fell into depression after losing his job
+Депресія — це не просто поганий настрій.	Depression is not just a bad mood
+Вона звернулася до психотерапевта через тривалу депресію.	She saw a therapist due to long-term depression
+Його підтримка допомогла їй подолати депресивний стан.	His support helped her get through her depression
+Сезонна депресія часто виникає взимку.	Seasonal depression often appears in winter
+Вона мала сильне бажання побачити світ.	She had a strong desire to see the world
+Його єдине бажання — бути щасливим.	His only desire is to be happy
+У мене немає бажання знову це обговорювати.	I have no desire to discuss this again
+Це було спонтанне, але щире бажання.	It was a spontaneous but sincere desire
+Бажання змінити життя з'явилося після розмови з другом.	The desire to change his life came after a talk with a friend
+Його обличчя було сповнене розчарування, коли він почув новину.	His face was full of disappointment when he heard the news
+Я не хочу знову переживати це розчарування.	I don't want to go through that disappointment again
+Її реакція виявилася великою несподіванкою і розчаруванням.	Her reaction came as a surprise and a disappointment
+Розчарування — це частина будь-якої великої подорожі.	Disappointment is part of any great journey
+Він спробував приховати своє розчарування, але не зміг.	He tried to hide his disappointment, but failed
+Вона завжди виявляла неприязнь до брехні.	She always showed a strong dislike for lying
+Я не люблю працювати в шумному середовищі.	I dislike working in a noisy environment
+Він не приховував своєї неприязні до цього фільму.	He didn't hide his dislike of that movie
+У нього є особисті причини не любити того чоловіка.	He has personal reasons to dislike that man
+Вона не сказала нічого, але я відчув її неприязнь.	She didn't say anything, but I could feel her dislike
+Вони з розпачем дізналися про скасування події.	They learned of the event's cancellation with dismay
+Її обличчя виразило розчарування, коли вона побачила результати.	Her face showed dismay when she saw the results
+На жаль, новина викликала загальне здивування і розпач.	Unfortunately, the news caused general dismay
+Ми були вражені й засмучені тим, що сталося.	We were shocked and dismayed by what happened
+Він дивився на зруйнований проєкт із повним розпачем.	He looked at the ruined project in complete dismay
+Вона була у великому стресі після аварії.	She was in great distress after the accident
+Ми повинні допомогти тим, хто перебуває в біді.	We must help those in distress
+Її голос звучав так, ніби вона була засмучена.	Her voice sounded like she was in distress
+Їхній виклик про допомогу був знаком крайнього хвилювання.	Their call for help was a sign of serious distress
+Я не хотів тебе засмучувати.	I didn't mean to cause you distress
+Я відчув справжнє збентеження, коли забув її ім'я.	I felt genuine embarrassment when I forgot her name
+Його поведінка стала джерелом сорому для родини.	His behavior became a source of embarrassment for the family
+Вона почервоніла від збентеження.	She blushed with embarrassment
+Було ніяково, коли я випадково привітався з незнайомцем.	There was some embarrassment when I accidentally greeted a stranger
+Це був незручний момент для всіх присутніх.	It was an embarrassing moment for everyone involved
+Його ентузіазм щодо нової роботи був заразним.	His enthusiasm for the new job was contagious
+Вони прийняли новий проєкт з великим запалом.	They embraced the new project with great enthusiasm
+Ти завжди говориш про це з таким ентузіазмом!	You always talk about it with such enthusiasm!
+На жаль, її ентузіазм згас після першого провалу.	Unfortunately, her enthusiasm faded after the first failure
+Ми повинні зберегти цей ентузіазм до самого кінця.	We should maintain that enthusiasm until the very end
+Він заздрив її впевненості в собі.	He envied her self-confidence
+Її успіх викликав легку заздрість серед колег.	Her success sparked some envy among her colleagues
+Не варто заздрити тому, що ти не бачиш зсередини.	You shouldn't envy what you don't understand from the inside
+Я відчув заздрість, коли побачив їхню подорож.	I felt envy when I saw their trip
+Замість заздрості, краще надихайся їхніми досягненнями.	Instead of envy, be inspired by their achievements
+Він відчував страх перед невідомим.	He felt fear of the unknown
+Її голос тремтів від страху.	Her voice trembled with fear
+Не дозволяй страху зупинити тебе.	Don't let fear stop you
+Я боявся зробити помилку під час виступу.	I was afraid of making a mistake during the presentation
+Я досі відчуваю провину за те, що сталося.	I still feel guilty about what happened
+Провина не дає мені спокою.	The guilt is eating me alive
+Вона не винна — припини тиснути на неї.	She's not to blame — stop making her feel guilty
+Він зізнався у злочині з почуттям провини.	He confessed to the crime out of guilt
+Провина може бути важчим покаранням, ніж в'язниця.	Guilt can be a harsher punishment than prison
+Йому було соромно за свої слова.	He felt shame for what he had said
+Не варто соромитись своїх почуттів.	There's no shame in having emotions
+Вона опустила очі від сорому.	She lowered her eyes in shame
+Було соромно, що я не допоміг тоді.	I was ashamed I didn't help back then
+Сором може заважати людині бути собою.	Shame can keep a person from being themselves
+Їхня ненависть була взаємною.	Their hatred was mutual
+Я ненавиджу несправедливість.	I hate injustice
+Ненависть ніколи не вирішує проблем.	Hatred never solves problems
+З роками його злість перетворилася на ненависть.	Over the years, his anger turned into hatred
+Ми не повинні відповідати на ненависть ненавистю.	We must not respond to hatred with hatred
+Я відчуваю самотність, навіть коли поруч люди.	I feel loneliness even when people are around
+Самотність може бути небезпечнішою за стрес.	Loneliness can be more harmful than stress
+Вона сумує не за кимось конкретно, а відчуває порожнечу.	She's not missing someone — it's loneliness she feels
+Після переїзду він почав відчувати справжню самотність.	After moving, he started to experience true loneliness
+Навіть успішні люди іноді страждають від самотності.	Even successful people sometimes suffer from loneliness
+Вона тримала образу через те, що її не запросили.	She held resentment for not being invited
+Образа може отруїти навіть найміцнішу дружбу.	Resentment can poison even the strongest friendship
+Я відчував образу, хоча й намагався це приховати.	I felt resentment, though I tried to hide it
+Він досі не пробачив мені — я бачу в його очах образу.	He still hasn't forgiven me — I can see the resentment in his eyes
+Якщо не говорити про почуття, з'являється образа.	If you don't talk about your feelings, resentment builds
+Вона не могла оговтатись від горя після втрати матері.	She couldn't recover from the grief of losing her mother
+Горе не має чіткого терміну — кожен переживає його по-своєму.	Grief has no timeline — everyone experiences it differently
+Він мовчки сидів, охоплений глибоким горем.	He sat silently, overwhelmed by deep grief
+Горе — це частина любові.	Grief is the price we pay for love
+Я намагався підтримати її у перші дні після горя.	I tried to support her in the early days of her grief
+Я відчував фрустрацію, бо нічого не виходило.	I felt frustration because nothing was working
+Її обличчя виражало чисту фрустрацію.	Her face showed pure frustration
+Не дивно, що він зірвався — це була кульмінація фрустрації.	It's no wonder he snapped — it was the peak of frustration
+Фрустрація зростає, коли не бачиш прогресу.	Frustration grows when there's no visible progress
+Він втомився від постійної фрустрації на роботі.	He was tired of constant frustration at work
+Я стояв у тиші, відчуваючи повну безпорадність.	I stood in silence, feeling utterly helpless
+Безпорадність часто приходить разом зі страхом.	Helplessness often comes hand in hand with fear
+Вона плакала від безпорадності, не знаючи, що робити.	She cried in helplessness, not knowing what to do
+Я зненавидів це відчуття — коли нічого не можеш змінити.	I hated that feeling — the helplessness of not being able to change anything
+Їхня безпорадність під час катастрофи була очевидною.	Their helplessness during the disaster was clear
+Він не міг приховати ревнощів, коли побачив її з іншим.	He couldn't hide his jealousy when he saw her with someone else
+Ревнощі не завжди пов'язані з любов'ю — іноді з невпевненістю.	Jealousy isn't always about love — sometimes it's about insecurity
+Вона зізналася, що відчуває ревнощі до колеги.	She admitted feeling jealousy toward her coworker
+Ревнощі здатні зруйнувати навіть найміцніші стосунки.	Jealousy can ruin even the strongest relationships
+Я намагався не проявляти ревнощів, але це було складно.	I tried not to show jealousy, but it was hard
+Я живу з надією, що війна скоро закінчиться.	I live with the hope that the war will end soon
+Вона не втрачала надії, навіть коли все здавалося безнадійним.	She never lost hope, even when everything seemed hopeless
+У нього була надія знайти кращу роботу.	He had hope of finding a better job
+Надія — це те, що тримало нас на плаву.	Hope was what kept us going
+Я сподіваюсь, що ти скоро одужаєш.	I hope you get better soon
+Її очі сяяли від радості.	Her eyes sparkled with joy
+Це була радість, яку важко описати словами.	It was a joy hard to describe in words
+Ми кричали від радості, коли дізналися новину.	We screamed with joy when we heard the news
+Радість повернулася в її життя після довгої депресії.	Joy returned to her life after a long depression
+Маленькі речі приносять найбільше радості.	The little things bring the greatest joy
+Вона знайшла справжню любов у тридцять.	She found true love at thirty
+Його любов до доньки була безмежною.	His love for his daughter was endless
+Любов не завжди легка, але вона того варта.	Love isn't always easy, but it's worth it
+Вони продовжували любити одне одного попри всі труднощі.	They kept loving each other despite all hardships
+Я закохався в неї з першого погляду.	I fell in love with her at first sight
+Після розмови я відчув спокій.	I felt peace after the conversation
+Спокій запанував у місті після закінчення боїв.	Peace returned to the city after the fighting ended
+Йога допомагає мені знайти внутрішній спокій.	Yoga helps me find inner peace
+Вони шукали спокою, але знаходили лише шум.	They were seeking peace, but found only noise
+Вона мовчала — і в тому була своя спокійна сила.	She was silent — and there was peaceful strength in that
+Я зітхнув з полегшенням, коли почув добрі новини.	I sighed with relief when I heard the good news
+Їх евакуація принесла всім велике полегшення.	Their evacuation brought great relief to everyone
+Було полегшенням нарешті закінчити той проект.	It was a relief to finally finish that project
+Ми не могли приховати полегшення, коли знайшли воду.	We couldn't hide our relief when we found water
+Ці ліки дали йому полегшення від болю.	The medicine gave him relief from the pain
+Мені вдалося виправити помилку	I managed to fix the bug
+Ми встигли на потяг	We managed to catch the train
+Мені вдалося вивчити основи за тиждень.	I managed to learn the basics in a week
+Їй вдалося залишитися спокійною під час інтерв'ю.	She managed to stay calm during the interview
+Я не можу висловити всю свою вдячність за твою допомогу.	I can't express all my gratitude for your help
+Вона подивилась на нього з щирою вдячністю.	She looked at him with sincere gratitude
+Ми відчували глибоку вдячність за підтримку.	We felt deep gratitude for the support
+Його слова вдячності були дуже зворушливими.	His words of gratitude were very touching
+Вдячність робить нас щасливими.	Gratitude makes us happier
+Він посміхнувся з задоволенням, коли побачив результати.	He smiled with satisfaction when he saw the results
+Завершення проекту принесло мені велике задоволення.	Finishing the project brought me great satisfaction
+Задоволення від роботи важливе для щастя.	Job satisfaction is important for happiness
+Я не отримав задоволення від цієї книги.	I didn't get any satisfaction from this book
+Її обличчя світилося задоволенням.	Her face was glowing with satisfaction
+Довіра — це основа будь-яких стосунків.	Trust is the foundation of any relationship
+Я повністю довіряю тобі.	I completely trust you
+Він зрадив мою довіру.	He betrayed my trust
+Без довіри команда не може працювати ефективно.	Without trust, a team can't work effectively
+Довіру важко здобути і легко втратити.	Trust is hard to earn and easy to lose
+Його жарти викликали загальне веселощі(потіху).	His jokes caused general amusement
+Я дивився це шоу з явним розважальним настроєм.	I watched the show with obvious amusement
+Її обличчя було повне задоволення.	Her face was full of amusement
+Ми провели вечір у парку розваг.	We spent the evening at the amusement park
+Я граю на піаніно просто для власного задоволення(потіхи).	I play the piano just for my own amusement
+Щодо вашого запиту, ми відповімо завтра.	Regarding your request, we'll respond tomorrow
+У мене є питання стосовно цієї частини договору.	I have a question regarding this part of the contract
+Ми говорили щодо бюджету на наступний місяць.	We talked regarding the budget for next month
+Чи є у вас якісь зауваження стосовно презентації?	Do you have any comments regarding the presentation?
+Щодо того, що сталося вчора — ми все зʼясуємо.	Regarding what happened yesterday — we'll get to the bottom of it
+Ми були змушені змінити маршрут через аварію.	We had to divert the route due to the accident
+Він намагався відволікти увагу від основної проблеми.	He tried to divert attention from the main issue
+Рейс перенаправили до іншого аеропорту.	The flight was diverted to another airport
+Її питання відволікло мене від основної теми.	Her question diverted me from the main topic
+Ми можемо перенаправити частину бюджету на інше.	We can divert some of the budget elsewhere
+Він відстав від групи, бо втомився.	He dropped back from the group because he was tired
+Автомобіль відступив назад, щоб пропустити швидшу машину.	The car dropped back to let the faster one pass
+Команда вирішила відступити назад в оборону.	The team decided to drop back into defense
+Я повернувся назад до останньої глави, щоб краще зрозуміти.	I dropped back to the previous chapter to understand it better
+Ти можеш трохи відстати, якщо хочеш відпочити.	You can drop back a little if you need a break
+Нові обмеження вступають в силу з понеділка.	New restrictions come into effect on Monday
+Є обмеження на кількість людей у залі.	There's a restriction on the number of people in the room
+Вони зняли більшість обмежень для мандрівників.	They lifted most restrictions for travelers
+Обмеження швидкості на цій дорозі — 50 миль на годину.	The speed restriction on this road is 50 miles per hour
+Через технічні обмеження ми не можемо додати більше функцій.	Due to technical restrictions, we can't add more features
+Я подався на роботу минулого тижня.	I applied for a job last week
+Це правило застосовується до всіх без винятку.	This rule applies to everyone without exception
+Не забудь нанести сонцезахисний крем перед виходом.	Don't forget to apply sunscreen before going out
+Вона застосувала отримані знання на практиці.	She applied the knowledge she had learned
+Він хоче подати заявку на візу наступного місяця.	He wants to apply for a visa next month
+Його відповідь була надто багатослівною і заплутала всіх.	His answer was too verbose and confused everyone
+Я намагаюсь бути лаконічним, а не багатослівним.	I try to be concise rather than verbose
+Її звіт занадто детальний, скоріше за все — занадто багатослівний.	Her report is overly detailed, perhaps even verbose
+Цей текст виглядає надто формальним і багатослівним.	This text seems too formal and verbose
+Можеш перефразувати це менш багатослівно?	Can you rephrase it in a less verbose way?
+Ми повинні виділити більше часу на підготовку.	We need to allocate more time for preparation
+Влада виділила кошти на ремонт доріг.	The authorities allocated funds for road repairs
+Він не вміє правильно розподіляти ресурси.	He doesn't know how to allocate resources properly
+Кожному учаснику буде виділено 10 хвилин.	Each participant will be allocated 10 minutes
+Цей простір було виділено для дитячої зони.	This space was allocated for the children's area
+Чому ти на мене кричиш?	Why are you yelling at me?
+Я чув, як вони кричали один на одного на вулиці.	I heard them yelling at each other on the street
+Будь ласка, перестань кричати, я все чую.	Please stop yelling, I can hear you just fine
+Діти кричали від радості.	The kids were yelling with joy
+Він почав кричати, коли побачив павука.	He started yelling when he saw the spider
+Ми повинні усунути всі помилки до релізу.	We must eliminate all errors before the release
+Його виключили зі списку кандидатів.	He was eliminated from the list of candidates
+Ця програма допомагає усунути непотрібні файли.	This program helps eliminate unnecessary files
+Їх мета — ліквідувати корупцію.	Their goal is to eliminate corruption
+Ми не можемо повністю виключити ризики, але можемо зменшити їх.	We can't completely eliminate the risks, but we can reduce them
+Місто швидко заселили після будівництва.	The city was quickly populated after construction
+Цей скрипт автоматично наповнює таблицю даними.	This script automatically populates the table with data
+Нове поселення було заселене переселенцями.	The new settlement was populated by migrants
+Форма буде автоматично заповнена інформацією з бази даних.	The form will be populated with data from the database
+Бот наповнив чат фейковими повідомленнями.	The bot populated the chat with fake messages
+Я таки зміг завершити проект вчасно.	I managed to finish the project on time
+Вона змогла добратися додому попри снігопад.	She managed to get home despite the snowstorm
+Вони спромоглися врятувати всіх пасажирів.	They managed to rescue all the passengers
+Я не зміг знайти той документ.	I didn't manage to find that document
+Він ледве спромігся піднятися після поразки.	He barely managed to get back up after the defeat
+Ця програма може зчитувати і обробляти великі об'єми даних.	This program can ingest and process large volumes of data
+Не можна ковтати цю речовину — вона отруйна.	You must not ingest this substance — it's poisonous
+Система індексує та приймає нову інформацію автоматично.	The system automatically ingests new information
+Він проковтнув таблетку без води.	He ingested the pill without water
+Після аварії річка “поглинула” десятки тонн нафти.	After the accident, the river ingested tons of oil
+Цей монітор відображає кольори дуже точно.	This monitor displays colors very accurately
+На екрані відображається повідомлення про помилку.	An error message is displayed on the screen
+Вони виставили свої роботи на виставці.	They displayed their work at the exhibition
+Паніка була чітко помітна на його обличчі.	Panic was clearly displayed on his face
+Ця сторінка неправильно відображається на мобільному.	This page doesn't display correctly on mobile
+Ми тимчасово вимкнули цей модуль.	We temporarily disabled this module
+Вірус може вимкнути антивірусну систему.	The virus can disable the antivirus system
+Цю функцію можна вимкнути в налаштуваннях.	You can disable this feature in the settings
+Травма зробила його неспроможним ходити.	The injury disabled him from walking
+Вони вимкнули GPS, щоб зекономити батарею.	They disabled the GPS to save battery
+Будь ласка, вкажіть усі джерела в списку літератури.	Please include all references in the bibliography
+Я згадав його у своєму звіті.	I referenced him in my report
+Цей код використовує зовнішнє посилання на бібліотеку.	This code uses an external library reference
+Посилання на цю статтю було додано нижче.	A reference to this article was added below
+Її ім'я було згадано у прес-релізі.	Her name was referenced in the press release
+Ми плануємо впровадити нову систему безпеки наступного місяця.	We plan to implement a new security system next month
+Він реалізував усі зміни, які ми запропонували.	He implemented all the changes we suggested
+Цей алгоритм вже реалізований у коді.	This algorithm has already been implemented in the code
+Компанія не змогла впровадити стратегію через опір працівників.	The company failed to implement the strategy due to employee resistance
+Важливо не лише мати ідеї, а й вміти їх реалізовувати.	It's important not only to have ideas but also to know how to implement them
+Я запізнився і пропустив автобус.	I was late and missed the bus
+Вона сумує за родиною, бо давно не бачила їх.	She misses her family because she hasn't seen them in a while
+Не пропусти нагоду змінити своє життя!	Don't miss the chance to change your life!
+Ми пропустили початок фільму.	We missed the beginning of the movie
+Ти не уявляєш, як я за тобою скучив.	You have no idea how much I missed you
+Я вирішив пропустити обід — не голодний.	I decided to skip lunch — I'm not hungry
+Не перескакуй кроки, дотримуйся інструкції.	Don't skip steps, follow the instructions
+Вона часто прогулює заняття.	She often skips classes
+Я пропущу тренування сьогодні — втомився.	I'll skip practice today — I'm tired
+Він перегорнув сторінку, пропустивши вправу.	He turned the page, skipping the exercise
+Він надіслав запит на додаткову інформацію.	He sent a request for more information
+Можна я попрошу трохи тиші?	May I request a bit of silence?
+Запити обробляються сервером автоматично.	Requests are handled by the server automatically
+Ми отримали офіційне прохання з міністерства.	We received an official request from the ministry
+Я попросив відпустку на два дні.	I requested a two-day leave
+Ми ще не отримали відповіді на лист.	We haven't received a response to the letter yet
+Її реакція була дуже емоційною.	Her response was very emotional
+Відповідь сервера надійшла через кілька секунд.	The server response arrived in a few seconds
+На моє запитання ніхто не відповів.	No one gave a response to my question
+Його реакція здивувала всіх.	His response surprised everyone
+Я хочу переглянути цей момент ще раз.	I want to replay that moment again
+Він переграв запис, щоб почути деталі.	He replayed the recording to catch the details
+Ми можемо повторити гру завтра?	Can we replay the game tomorrow?
+Вона знову і знову програвала ту пісню.	She kept replaying that song over and over
+Я часто в голові переграю цю розмову.	I often replay that conversation in my head
+На твою думку, варто купувати цю машину?	In your opinion, is it worth buying this car?
+У мене інша точка зору на це питання.	I have a different opinion on this matter
+Його думка для мене дуже важлива.	His opinion matters a lot to me
+Ми всі маємо право на свою думку.	We all have the right to our own opinion
+Це лише моя особиста думка.	That's just my personal opinion
+Це слово може викликати в нього спогади.	That word can trigger memories in him
+Сигнал тривоги спрацював через дим.	The alarm was triggered by smoke
+Це відео може спровокувати сильні емоції.	This video may trigger strong emotions
+Його зауваження викликало суперечку.	His comment triggered an argument
+Система автоматично запускається при збої.	The system is triggered automatically in case of a failure
+Його відповідь була абсолютно точною.	His answer was completely accurate
+Цей годинник дуже точний.	This watch is very accurate
+Нам потрібна точна інформація.	We need accurate information
+Вона дала точний опис підозрюваного.	She gave an accurate description of the suspect
+Це не зовсім точна оцінка ситуації.	That's not an entirely accurate assessment of the situation
+Він споживає забагато цукру щодня.	He consumes too much sugar every day
+Ця машина витрачає багато пального.	This car consumes a lot of fuel
+Серіали поглинають весь мій вільний час.	TV shows consume all my free time
+Ми повинні менше споживати ресурсів.	We should consume fewer resources
+Вона повністю занурилася в роботу, яка її поглинула.	She was consumed by the job completely
+Він має приїхати з хвилини на хвилину	He should arrive any minute now
+Я чекаю листа від неї з хвилини на хвилину	I'm expecting her email any minute now
+Ось-ось піде дощ — не забудь парасольку	It's going to rain any minute now — don't forget your umbrella
+Будь готовий — оголошення буде з хвилини на хвилину	Be ready — the announcement could come any minute now
+Твій автобус ось-ось буде	Your bus will be here any minute now
+У якийсь момент нам доведеться поговорити	At some point, we'll have to talk
+Він згадав це у якийсь момент під час вечері	He mentioned it at some point during dinner
+У якийсь момент вона просто здалася	At some point, she just gave up
+Ми всі колись робимо помилки	We all make mistakes at some point
+Я зрозумів це у якийсь момент під час поїздки	I realized it at some point during the trip
+Я досі чекаю на відповідь	I'm still waiting for a reply
+Ти досі не зробив це?	You still haven't done it?
+Він досі працює над цим проєктом	He's still working on that project
+Чи ще діє знижка?	Is the discount still valid?
+Ми все ще не знаємо правди	We still don't know the truth
+Він ще не повернувся	He hasn't come back yet
+Ти вже поснідав? — Ні, ще ні	Have you had breakfast yet? — No, not yet
+Ми ще не отримали результати	We haven't received the results yet
+Її ще не бачили зранку	She hasn't been seen yet this morning
+Ти вже вирішив, куди поїдеш?	Have you decided where to go yet?
+Тим часом я приготую вечерю	In the meantime, I'll cook dinner
+Зустріч почнеться за 10 хвилин. Тим часом перевір пошту	The meeting starts in 10 minutes. In the meantime, check your email
+Він чекає на автобус, а тим часом читає книжку	He's waiting for the bus and reading a book in the meantime
+Поки я був у відрядженні, вона керувала офісом	She managed the office in the meantime while I was on a trip
+Я готую звіт, а тим часом ти можеш зробити каву	I'm working on the report — in the meantime, you can make some coffee
+Нещодавно я читав цікаву статтю про це	I recently read an interesting article about it
+Ми нещодавно бачилися з ними	We saw them recently
+Чи бачив ти її останнім часом?	Have you seen her recently?
+Нещодавно компанія змінила логотип	The company recently changed its logo
+Він нещодавно почав вивчати французьку	He recently started learning French
+Він тільки-но пішов з офісу	He left the office just now
+Я тільки-но отримав повідомлення	I got the message just now
+Ми тільки-но це обговорювали	We were talking about this just now
+Вона щойно сказала щось дивне	She said something strange just now
+Ти не чув, що він сказав щойно?	Didn't you hear what he said just now?
+Було б краще зробити це раніше	It would've been better to do this sooner
+Я думав, ти повернешся раніше	I thought you'd come back sooner
+Наступного разу відповідай раніше	Next time, please respond sooner
+Мені слід було це зрозуміти раніше	I should have realized it sooner
+Чим раніше ми почнемо, тим краще	The sooner we start, the better
+Я зроблю це пізніше, обіцяю	I'll do it later, I promise
+Ми можемо обговорити це пізніше?	Can we talk about this later?
+Пізніше буде занадто пізно	It'll be too late later
+Я не можу зараз, побачимось пізніше	I can't now — see you later
+Пізніше ти зрозумієш, чому я це зробив	You'll understand later why I did it
+До цього часу вона мала вже повернутися	She should have been back by now
+Ти мав закінчити роботу до цього часу	You should've finished the work by now
+Я думав, ти вже пообідав	I thought you'd had lunch by now
+Вони, мабуть, уже поїхали до цього часу	They must have left by now
+До цього часу ми вже знали правду	By now, we already knew the truth
+Я впорався з цим за мить	I finished it in no time
+Він вирішив задачу дуже швидко	He solved the task in no time
+Повір мені, ти звикнеш до цього миттєво	Trust me, you'll get used to it in no time
+Ми дістались до вокзалу вмить	We got to the station in no time
+З цим новим інструментом я зробив усе за секунди	With this new tool, I got everything done in no time
+Зроби мені послугу – не кажи йому про це.	Do me a favour – don't tell him about it
+Можеш зробити мені одну ласку?	Can you do me a favour?
+Зроби собі послугу і піди раніше спати.	Do yourself a favour and go to bed early
+Вони зробили нам велику послугу, прийшовши раніше.	They did us a big favour by coming early
+Ти не робиш мені послугу, коли знову ігноруєш поради.	You're not doing me a favour by ignoring the advice again
+Якщо чесно, я не дуже переконаний у цьому плані.	I'm not convinced, to be honest
+Якщо чесно, не впевнений, що це спрацює.	To be honest, I'm not convinced it will work
+Чесно кажучи, я досі сумніваюсь.	To be honest, I'm still not convinced
+Я не впевнений, якщо чесно, що вони кажуть правду.	I'm not convinced, to be honest, that they're telling the truth
+Якщо чесно, я не купився на їхню історію.	Honestly, I wasn't convinced by their story
+Думаю, що ні.	I don't think so.
+Ти йдеш на вечірку? – Думаю, ні.	Are you going to the party? – I don't think so
+Не думаю, що це добра ідея.	I don't think so – it's not a good idea
+Я не думаю, що ми встигнемо вчасно.	I don't think so – we won't make it on time
+Думаю, що він не погодиться.	I don't think so – he won't agree
+Він зовсім перейшов межу.	He was well out of order
+Ти серйозно? Це вже за рамками!	Seriously? That's well out of order!
+Його коментар був зовсім недоречним.	His comment was completely out of order
+Її поведінка в офісі була неадекватною.	Her behaviour in the office was well out of order
+Це було грубо і зовсім недоречно.	That was rude and totally out of order
+Я не люблю каву. – Я теж ні.	I don't like coffee. – Me neither
+Я ніколи там не був. – Я теж.	I've never been there. – Me neither
+Я не встиг закінчити. – І я теж.	I didn't finish in time. – Me neither
+Я не зрозумів, про що він. – Я теж ні.	I didn't get what he meant. – Me neither
+Я теж не люблю це.	I don't like it either
+Вона не прийшла, і він теж ні.	She didn't come, and he didn't either
+Ми не були голодні. – Ми теж.	We weren't hungry. – Us either
+Він не знає, що робити, і я теж.	He doesn't know what to do, and I don't either
+Я не встигаю, і ти, схоже, теж.	I can't make it on time, and you can't either
+Я не згоден з тобою в цьому.	I'm not with you on this one
+Можливо, ти правий, але я не поділяю твою думку.	You might be right, but I'm not with you on this one
+Вибач, але я тут не з тобою.	Sorry, but I'm not with you on this one
+Я поважаю тебе, але тут не згоден.	I respect you, but I'm not with you on this one
+Це твоя думка, але я її не поділяю.	That's your opinion, but I'm not with you on this one
+Звідки ти родом? Я з України. А ти звідки?	Where are you from? I'm from Ukraine. Where are you from?
+Де ти народився? У Львові. А ти?	Where were you born? I was born in Lviv. What about you?
+Де ти живеш? У квартирі над кав'ярнею. А ти де живеш?	Where do you live? I live in a flat above a coffee shop. Where do you live?
+Ти живеш у будинку чи квартирі? У будинку з садом. А ти?	Do you live in a house or a flat? I live in a house with a garden. How about you?
+У тебе є брати або сестри? Так, один молодший брат. А в тебе?	Do you have any brothers or sisters? Yes, one younger brother. What about you?
+У тебе є домашні тварини? Так, кіт. А в тебе?	Do you have any pets? Yes, a cat. Do you have any?
+Чим ти займаєшся? Я працюю у магазині в центрі. А ти?	What do you do? I work in a shop in the city centre. What do you do?
+О котрій ти встаєш протягом тижня? Близько сьомої. А ти?	What time do you get up during the week? Around seven. And you?
+Де ти зазвичай обідаєш? У спільній кухні на роботі. А ти?	Where do you usually have lunch? In the shared kitchen at work. What about you?
+О котрій ти зазвичай лягаєш спати? Приблизно опівночі. А ти?	What time do you usually go to bed? Around midnight. And you?
+Де ти раніше вивчав англійську? На курсах у Лондоні. А ти?	Where did you study English before? On a course in London. What about you?
+Ти говориш ще якоюсь мовою? Я трохи французькою. А ти?	Can you speak any other languages? I speak a bit of French. How about you?
+Яку музику ти слухаєш? Різну, але більше рок. А ти?	What kind of music do you listen to? A mix, but mostly rock. What do you listen to?
+Які серіали або програми ти дивишся? Британські детективи. А ти що дивишся?	What TV programmes or series do you watch? British detective shows. What do you watch?
+Ти займаєшся спортом або вправами? Я бігаю в парку. А ти?	Do you do any sport or exercise? I go jogging in the park. Do you?
+Які книжки чи журнали ти читаєш? Романи та статті про психологію. А ти?	What kind of books or magazines do you read? Novels and articles on psychology. What do you read?
+Як часто ти ходиш у кіно? Десь раз на місяць. А ти?	How often do you go to the cinema? About once a month. How about you?
+Що ти робив минулих вихідних? Я був у музеї й зустрічався з друзями. А ти?	What did you do last weekend? I went to a museum and met some friends. What about you?
+Привіт, я Назар. Ми здається зустрічались на уроці минулого тижня?	Hi, I'm Nazar. Didn't we meet in class last week?
+Ти тут вперше? Так, я тільки вчора переїхала до міста. А ти давно тут живеш?	Is this your first time here? Yes, I just moved to town yesterday. Have you lived here long?
+Твоя англійська звучить дуже добре! Дякую! Я вивчаю її вже кілька років. А ти?	Your English sounds really good! Thanks! I've been learning it for a few years. What about you?
+Йому довелося вийти з кімнати.	He had to leave the room
+Як нам тебе називати?	What should we call you?
+Він розлютився після того, як його проігнорували.	He got angry after being ignored
+У нас багато спільного, окрім музики	We have lots of things in common besides music
+Окрім роботи лікарем, він також пише романи у вільний час	Besides working as a doctor, he also writes novels in his spare time
+Я не хочу виходити. До того ж, іде дощ.	I don’t want to go out. Besides, it's raining
+Я чітко висловився/висловилася?	Have I made myself clear?
+Він оголосив про свій намір піти у відставку	He has announced his intention to retire
+Це не було моїм наміром, щоб вона страждала	It was not my intention that she should suffer
+Вона сповнена добрих намірів, але вони рідко спрацьовують(удаються)	She's full of good intentions but they rarely work out
+Настільки я проінформований(Наскільки мені відомо), ніхто нічого з цим не зробив	As far as I'm aware, nobody has done anything about it
+Цей застосунок створено, щоб допомогти тобі вивчати англійську	This app is meant to help you learn English
+Ці правила призначені для безпеки всіх	These rules are meant to keep everyone safe
+Знак призначений, щоб попереджати водіїв про поворот	The sign is meant to warn drivers about the curve
+Його легко переконують друзі	He's easily influenced by his friends
+Вона легко піддається моді	She's easily influenced by trends
+Біль у спині досі не пройшов	The back pain still hasn’t gone away
+Запах свіжої фарби ще не зник	The smell of fresh paint hasn’t gone away yet
+Її образа на нього досі не минула	Her resentment towards him hasn’t gone away
+Мій інтерес до цієї теми не зник навіть через роки	My interest in this topic hasn’t gone away even after years
+Радість від перемоги досі не минула	The joy of victory hasn’t gone away yet
+Нарешті біль у горлі пройшов	The sore throat has finally gone away
+Запах диму зник після провітрювання	The smell of smoke has gone away after airing the room
+Її страхи зникли з часом	Her fears have gone away over time
+Проблема з комп’ютером зникла після оновлення	The computer issue has gone away after the update
+Гнів пройшов, і він заспокоївся	The anger has gone away, and he has calmed down
