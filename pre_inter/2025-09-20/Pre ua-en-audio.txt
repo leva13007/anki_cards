@@ -1,0 +1,3786 @@
+#separator:tab
+#html:true
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він лисий, але виглядає дуже привабливо
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0001--Adam_Stone--He_s_bald__but_he_looks_very_handsome.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Мій дідусь полисів, коли йому було лише тридцять п'ять
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0002--Jane--My_grandfather_went_bald_when_he_was_only_thirty_five.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ти думаєш, що полисієш у майбутньому?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0003--Shelley_Clear_and_confident_British_fe--Do_you_think_you_will_go_bald_in_the_future_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона не змогла його впізнати, бо він був лисий і не мав окулярів
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0004--Archer--She_couldn_t_recognise_him_because_he_was_bald_and_had_no_glasses.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якби я був лисим, я б, мабуть, носив капелюх постійно
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0005--Amelia--If_I_were_bald__I_would_probably_wear_a_hat_all_the_time.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він ще не лисий, але його волосся рідшає
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0006--Jane--He_s_not_bald_yet__but_his_hair_is_getting_thinner.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У нього довга борода, як у Санта Клауса
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0007--James_British_Professional_Smooth--He_has_a_long_beard__like_Santa_Claus.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Мій брат відростив бороду під час локдауну
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0008--Grandfather_Joe_Gentle__warm___wise--My_brother_grew_a_beard_during_the_lockdown.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ти надаєш перевагу чоловікам з бородою чи поголеним?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0009--Eastend_Steve--Do_you_prefer_men_with_a_beard_or_clean_shaven_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він збрив бороду вчора, і тепер виглядає молодше
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0010--Rachel_M_Pro_British_Radio_Presenter--He_shaved_his_beard_yesterday__and_now_he_looks_younger.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти тримаєш бороду короткою, вона виглядає охайною
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0011--Elizabeth_Professional_British_Narrator--If_you_keep_your_beard_short__it_looks_tidy.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Його борода була вся в снігу після довгої прогулянки
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0012--Adam_Stone--His_beard_was_full_of_snow_after_the_long_walk.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вони купили великий будинок біля Лондона
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0013--Lucy_Fresh___Casual--They_bought_a_big_house_near_London.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Наприкінці цієї вулиці є великий супермаркет
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0014--Allison_inviting_and_velvety_British_ac--There_s_a_big_supermarket_at_the_end_of_this_street.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Це найбільша помилка, яку я коли-небудь робив
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0015--AImee_ASMR_and_Meditation--That_s_the_biggest_mistake_I_ve_ever_made.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якби у нас був великий сад, ми б вирощували свої овочі
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0016--Katie_X_Call_Center_English_Female--If_we_had_a_big_garden__we_would_grow_our_own_vegetables.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Велика буря наближається сьогодні вночі, тож залишайтеся вдома
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0017--Northern_Terry--A_big_storm_is_coming_tonight__so_stay_at_home.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чому ця сумка така велика? Я не можу її нести!
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0018--Allison_inviting_and_velvety_British_ac--Why_is_this_bag_so_big__I_can_t_carry_it_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Небо таке синє сьогодні, ні однієї хмаринки
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0020--Elizabeth_Professional_British_Narrator--The_sky_is_so_blue_today__not_a_single_cloud.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Мій улюблений колір - синій, бо він спокійний
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0021--Eastend_Steve--My_favourite_colour_is_blue_because_it_s_calm.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він пофарбував стіни у своїй спальні у світло-синій
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0022--Grandfather_Joe_Gentle__warm___wise--He_painted_his_bedroom_walls_light_blue.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чому ти виглядаєш таким сумним? Щось сталося?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0023--Amelia--Why_are_you_looking_so_blue__Did_something_happen_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо я побачу синю машину зовні, я знатиму, що ти приїхав
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0024--Samara--If_I_see_a_blue_car_outside__I_ll_know_you_arrived.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона розумна і завжди отримує хороші оцінки в школі
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0025--Blondie_Conversational--She_is_clever_and_always_gets_good_marks_at_school.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Мій пес дуже розумний - він може відкрити двері сам(ч. роду)
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0026--Bradford--My_dog_is_very_clever___he_can_open_the_door_by_himself.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Це була розумна ідея - забронювати квитки онлайн
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0027--Blondie_Conversational--That_was_a_clever_idea_to_book_tickets_online.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він розумний у ремонті комп&#x27;ютерів, але не дуже ладнає з людьми
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0028--Elizabeth_Professional_British_Narrator--He_s_clever_at_fixing_computers__but_not_so_good_with_people.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якби ти був бвльш розумніший з грошима, у тебе не було б боргів
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0029--Adam_Stone--If_you_were_more_clever_with_money__you_wouldn_t_have_debts.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Я не думаю, що це розумно - їхати так швидко під дощем
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0030--Archie_English_teen_youth--I_don_t_think_it_s_clever_to_drive_so_fast_in_the_rain.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У неї кучеряве чорне волосся, як у її мами
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0031--Axell_British_YouTube_Personality--She_has_curly_black_hair_like_her_mother.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Моє волосся було пряме, але воно стало кучерявим&nbsp;після дощу&nbsp;
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0032--Amelia--My_hair_was_straight__but_it_became_curly_after_the_rain.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чи надаєш ти перевагу кучерявому чи прямому волоссю?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0033--Bradford--Do_you_prefer_curly_or_straight_hair_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У маленької дівчинки є кучеряві світлі кучері, якими усі захоплюються
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0034--Elizabeth_Professional_British_Narrator--The_little_girl_has_curly_blond_curls_that_everyone_admires.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якби у мене було кучеряве волосся, мені не потрібно було б користуватися феном
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0035--James_British_Professional_Smooth--If_I_had_curly_hair__I_wouldn_t_need_to_use_a_hairdryer.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він виглядав кумедно у кучерявій перуці на костюмованій вечірці
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0036--Samara--He_looked_funny_in_a_curly_wig_at_the_costume_party.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Моя сестра - екстраверт, вона любить знайомитися з новими людьми
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0037--Allison_inviting_and_velvety_British_ac--My_sister_is_an_extravert__she_loves_meeting_new_people.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Екстраверт - це хтось, хто отримує енергію від спілкування з іншими
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0038--Katie_X_Call_Center_English_Female--An_extravert_is_someone_who_gets_energy_from_talking_to_others.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він такий екстраверт - почав танцювати прямо посеред вулиці
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0039--Shelley_Clear_and_confident_British_fe--He_s_such_an_extravert___he_started_dancing_in_the_middle_of_the_stre.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ти більше екстраверт чи інтроверт?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0040--Lucy_Fresh___Casual--Are_you_more_of_an_extravert_or_an_introvert_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    <div>Вона стала більш екстравертною після того, як приєдналася до драматичного гуртка</div>
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0041--Johnny_Kid_Serious--She_became_more_extravert_after_she_joined_the_drama_club.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якби я був екстравертом, я б насолоджувався великими вечірками більше
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0042--Amelia--If_I_were_an_extravert__I_would_enjoy_big_parties_more.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він був товстим будучи дитиною, але зараз він стрункий і спортивний
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0043--Grandfather_Joe_Gentle__warm___wise--He_was_fat_as_a_child__but_now_he_s_slim_and_sporty.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Fat означає мати більшу вагу тіла, ніж це є здоровим
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0044--Archer--_Fat__means_having_more_body_weight_than_is_healthy.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Моя кішка така товста, що не може застрибнути на диван
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0045--Samara--My_cat_is_so_fat_that_she_can_t_jump_on_the_sofa.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Люди часто їдять фастфуд і швидко товстіють
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0046--Johnny_Kid_Serious--People_often_eat_fast_food_and_get_fat_quickly.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ти думаєш, що бути товстим - це лише через їжу чи також через спосіб життя?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0047--Archer--Do_you_think_being_fat_is_only_about_food__or_also_about_lifestyle_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якби я їв шоколад щодня, то, мабуть, погладшав би
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0048--Archer--If_I_ate_chocolate_every_day__I_would_probably_get_fat.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Наші сусіди дуже привітні й завжди вітаються
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0049--Archer--Our_neighbours_are_very_friendly_and_always_say_hello.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Friendly описує когось(людину), яка добра й з нею легко спілкуватися
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0050--Johnny_Kid_Serious--_Friendly__describes_someone_who_is_kind_and_easy_to_talk_to.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Продавець був привітний і допоміг мені вибрати куртку
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0051--Amelia--The_shop_assistant_was_friendly_and_helped_me_choose_a_jacket.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти будеш привітним, люди захочуть з тобою працювати
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0053--Elizabeth_Professional_British_Narrator--If_you_are_friendly__people_will_want_to_work_with_you.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Учитель був привітний, коли ти попросив допомоги?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0054--Northern_Terry--Was_the_teacher_friendly_when_you_asked_for_help_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Той фільм був дуже смішний, я не міг перестати сміятися
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0055--Jane--That_film_was_really_funny__I_couldn_t_stop_laughing.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Funny означає щось, що змушує тебе сміятися або посміхатися
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0056--AImee_ASMR_and_Meditation--_Funny__means_something_that_makes_you_laugh_or_smile.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Мій молодший брат розповів смішну історію за вечерею
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0057--Elizabeth_Professional_British_Narrator--My_little_brother_told_a_funny_story_at_dinner.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ти знаєш якісь смішні жарти англійською?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0058--Northern_Terry--Do_you_know_any_funny_jokes_in_English_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Кумедно(Дивно), як швидко минає час, коли ти щасливий
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0059--Allison_inviting_and_velvety_British_ac--It_s_funny_how_quickly_time_passes_when_you_re_happy.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якби я був такий смішний, як він, я б став коміком
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0060--Archie_English_teen_youth--If_I_were_funny_like_him__I_would_be_a_comedian.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Моя тітка щедра - вона завжди приносить нам подарунки
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0061--Archie_English_teen_youth--My_aunt_is_generous___she_always_brings_us_gifts.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Щедра людина любить давати іншим, без очикування чогось взамін
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0062--Adam_Stone--A_generous_person_likes_giving_to_others_without_expecting_anything_back.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він був достатньо щедрим, щоб заплатити за обід усіх
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0063--Katie_X_Call_Center_English_Female--He_was_generous_enough_to_pay_for_everyone_s_lunch.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чому багаті люди не завжди щедрі?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0064--Johnny_Kid_Serious--Why_are_rich_people_not_always_generous_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона зробила щедрий внесок у місцеву лікарню
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0065--Adam_Stone--She_made_a_generous_donation_to_the_local_hospital.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти будеш щедрим на свій час(готовий витрачати свій час на інших), люди це оцінять
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0066--Katie_X_Call_Center_English_Female--If_you_are_generous_with_your_time__people_will_appreciate_it.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона працьовита студентка і навчається щовечора
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0067--Grandfather_Joe_Gentle__warm___wise--She_s_a_hard_working_student_and_studies_every_evening.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Hard-working описує людину, яка працює з енергією та старанням
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0068--Archer--_Hard_working__describes_someone_who_works_with_energy_and_effort.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Мій батько дуже працьовитий - він ніколи не приходить додому раніше 7-ї вечора
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0069--Northern_Terry--My_father_is_very_hard_working___he_never_comes_home_before_7_p_m.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Люди у твоїй країні працьовиті чи більш розслаблені?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0070--Alexander--Are_people_in_your_country_hard_working_or_more_relaxed_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти працьовитий, ти можеш досягти майже всього
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0071--James_British_Professional_Smooth--If_you_are_hard_working__you_can_achieve_almost_anything.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він виглядає втомленим, бо наполегливо працював увесь тиждень
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0072--Jane--He_looks_tired_because_he_s_been_hard_working_all_week.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Дякую, що допоміг мені - ти дуже добрий
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0073--Lucy_Fresh___Casual--Thank_you_for_helping_me___you_are_very_kind.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Kind означає бути привітним&nbsp;і турботу про інших людей
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0074--Lucy_Fresh___Casual--_Kind__means_being_friendly_and_caring_about_other_people.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Моя вчителька добра, але також дуже сувора щодо домашніх завдань
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0075--Alexander--My_teacher_is_kind__but_also_very_strict_about_homework.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чи було б це добре з вашого боку&nbsp;відкрити вікно?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0076--Johnny_Kid_Serious--Would_it_be_kind_of_you_to_open_the_window_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти добрий до тварин, вони будуть довіряти тобі
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0077--Allison_inviting_and_velvety_British_ac--If_you_are_kind_to_animals__they_will_trust_you.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона була достатньо доброю, щоб показати мені дорогу до вокзалу
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0078--Elizabeth_Professional_British_Narrator--She_was_kind_enough_to_show_me_the_way_to_the_station.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він такий лінивий, що не хоче навіть помити посуд
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0079--Rachel_M_Pro_British_Radio_Presenter--He_s_so_lazy__he_doesn_t_even_want_to_wash_the_dishes.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Lazy описує людину, яка не любить працювати чи щось робити
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0080--Katie_X_Call_Center_English_Female--_Lazy__describes_someone_who_doesn_t_like_working_or_doing_things.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Моя кішка лінива зранку, але дуже активна вночі
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0081--Johnny_Kid_Serious--My_cat_is_lazy_in_the_morning_but_very_active_at_night.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чому ти поводишся так ліниво сьогодні?(тимчасовий характер поведінки)
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0082--Jane--Why_are_you_being_so_lazy_today_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти залишишся лінивим, то не складеш іспит
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0083--Adam_Stone--If_you_stay_lazy__you_won_t_pass_the_exam.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Я відчував себе лінивим у неділю&nbsp;&nbsp;і залишався у ліжку до полудня
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0084--Jane--I_felt_lazy_on_Sunday_and_stayed_in_bed_until_noon.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вони вирушили в довгу подорож через Європу
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0085--Northern_Terry--They_went_on_a_long_journey_across_Europe.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Long означає щось, що вимірюється великою відстанню або часом
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0086--Grandfather_Joe_Gentle__warm___wise--_Long__means_something_that_measures_a_great_distance_or_time.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Її волоcся дуже довге, воно майже дістає до її талії
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0087--Archie_English_teen_youth--Her_hair_is_very_long__it_almost_reaches_her_waist.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    <div>Минуло багато часу відтоді, як ми востаннє бачилися</div>
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0088--Eastend_Steve--It_s_been_a_long_time_since_we_last_met.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо зустріч буде довгою, ми можемо зробити коротку перерву
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0089--AImee_ASMR_and_Meditation--If_the_meeting_is_long__we_can_take_a_short_break.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Скільки часу займає дорога до Лондона потягом?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0090--Alexander--How_long_does_it_take_to_get_to_London_by_train_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Не будь грубим(злим) до свого молодшого брата
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0091--Samara--Don_t_be_mean_to_your_little_brother.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Mean описує людину, яка недобра або нещедра
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0092--James_British_Professional_Smooth--_Mean__describes_someone_who_is_unkind_or_not_generous.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона сказала злу річ, і це образило мої почуття
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0093--Lucy_Fresh___Casual--She_said_a_mean_thing__and_it_hurt_my_feelings.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він виглядає привітним, але іноді він може бути досить злим
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0094--Grandfather_Joe_Gentle__warm___wise--He_looks_friendly__but_sometimes_he_can_be_quite_mean.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти будеш злим до людей, вони не захочуть допомагати тобі
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0095--Grandfather_Joe_Gentle__warm___wise--If_you_are_mean_to_people__they_won_t_want_to_help_you.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чому він такий грубий, коли говорить з офіціантами?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0096--Mia_Moore_Studio_Presenter--Why_is_he_so_mean_when_he_talks_to_waiters_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У нього густі чорні вуса
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0097--Katie_X_Call_Center_English_Female--He_has_a_thick_black_moustache.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вуса - це волосся, яке росте над верхньою губою чоловіка
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0098--Bradford--A_moustache_is_hair_that_grows_above_a_man_s_upper_lip.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Мій дядько збрив вуса після двадцяти років
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0099--Archie_English_teen_youth--My_uncle_shaved_off_his_moustache_after_twenty_years.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якби у мене були вуса, я б, мабуть, виглядав старше
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0101--Grandfather_Joe_Gentle__warm___wise--If_I_had_a_moustache__I_d_probably_look_older.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він має зайву вагу, бо їсть занадто багато фастфуду
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0103--Jane--He_s_overweight_because_he_eats_too_much_fast_food.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Overweight означає важчий ніж вважається здоровим
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0104--Axell_British_YouTube_Personality--_Overweight__means_heavier_than_is_considered_healthy.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    <div>Лікар сказав, що я був трохи з надмірною вагою</div>
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0105--Amelia--The_doctor_said_I_was_slightly_overweight.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У твоїй країні багато людей із зайвою вагою?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0106--Samara--Are_there_many_overweight_people_in_your_country_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти перестанеш тренуватися, ти можеш стати повним(із зайвою вагою)
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0107--Katie_X_Call_Center_English_Female--If_you_stop_exercising__you_may_become_overweight.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона почувалася нещасною, бо її пес мав зайву вагу
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0108--Katie_X_Call_Center_English_Female--She_felt_unhappy_because_her_dog_was_overweight.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Бібліотека завжди тиха, тому ти можеш навчатися там.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0109--Rachel_M_Pro_British_Radio_Presenter--The_library_is_always_quiet__so_you_can_study_there_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Quiet означає створювати мало або зовсім не створювати шуму
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0110--Eastend_Steve--_Quiet__means_making_little_or_no_noise_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона тиха людина й мало говорить у компанії людей(не говорить багато у групах).
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0111--Blondie_Conversational--She_s_a_quiet_person_and_doesn_t_talk_much_in_groups_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Будь тихий, немовля спить!
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0112--Mia_Moore_Studio_Presenter--Be_quiet__the_baby_is_sleeping_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо вулиця буде тихою сьогодні ввечері, ми зможемо добре поспати.(У нас буде можливість добре виспатися)
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0113--Axell_British_YouTube_Personality--If_the_street_is_quiet_tonight__we_can_sleep_well_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чи був офіс тихим, коли ти прийшов сьогодні зранку?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0114--Alexander--Was_the_office_quiet_when_you_arrived_this_morning_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона одягла червону сукню на вечірку.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0115--Johnny_Kid_Serious--She_wore_a_red_dress_to_the_party_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Red — це колір крові та стиглої полуниці.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0116--Shelley_Clear_and_confident_British_fe--_Red__is_the_colour_of_blood_and_ripe_strawberries_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Його обличчя почервоніло, коли всі подивилися на нього.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0117--Johnny_Kid_Serious--His_face_turned_red_when_everyone_looked_at_him_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Я купив червону парасольку, бо її добре видно
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0118--Jane--I_bought_a_red_umbrella_because_it_s_easy_to_see_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо світлофор червоний, потрібно зупинитися.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0119--Shelley_Clear_and_confident_British_fe--If_the_traffic_light_is_red__you_must_stop_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чому твої очі такі червоні?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0120--Shelley_Clear_and_confident_British_fe--Why_are_your_eyes_so_red_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона виглядає серйозною, але насправді дуже смішна.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0121--Bradford--She_looks_serious__but_actually_she_s_very_funny_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Serious означає не жартівливий, важливий або такий, що показує глибокі думки.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0122--Johnny_Kid_Serious--_Serious__means_not_joking__important__or_showing_deep_thought_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він зробив серйозну помилку на роботі вчора.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0123--Rachel_M_Pro_British_Radio_Presenter--He_made_a_serious_mistake_at_work_yesterday_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ти серйозно, чи просто жартуєш?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0124--Samara--Are_you_serious__or_are_you_just_joking_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо це серйозна проблема, слід зателефонувати лікарю.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0125--Bradford--If_it_s_a_serious_problem__you_should_call_the_doctor_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона завжди дуже серйозна перед іспитом.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0126--Axell_British_YouTube_Personality--She_s_always_very_serious_before_an_exam_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він досить низький, але дуже сильний.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0127--Rachel_M_Pro_British_Radio_Presenter--He_is_quite_short__but_very_strong_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Short означає невисокий на зріст або нетривалий у довжині/часі.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0128--James_British_Professional_Smooth--_Short__means_not_tall_in_height__or_not_long_in_length_time_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ця спідниця занадто коротка для школи.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0129--Allison_inviting_and_velvety_British_ac--This_skirt_is_too_short_for_school_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Урок був короткий, лише тридцять хвилин.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0130--Lucy_Fresh___Casual--The_lesson_was_short__only_thirty_minutes_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо твоя промова буде короткою, люди уважно слухатимуть.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0131--Lucy_Fresh___Casual--If_your_speech_is_short__people_will_listen_carefully_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чому твоє волосся таке коротке тепер?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0132--Katie_X_Call_Center_English_Female--Why_is_your_hair_so_short_now_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Новий учень дуже сором'язливий і мало говорить.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0133--Mia_Moore_Studio_Presenter--The_new_student_is_very_shy_and_doesn_t_talk_much_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Shy описує людину, хто нервує або почувається некомфортно(ніяково) серед людей
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0134--Adam_Stone--_Shy__describes_someone_who_is_nervous_or_uncomfortable_with_people_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Моя молодша сестра була сором'язливою спочатку, але потім почала гратися.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0135--Alexander--My_little_sister_was_shy_at_first__but_then_she_started_playing_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ти сором&#x27;язливий, коли знайомишся з незнайомими людьми?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0136--Allison_inviting_and_velvety_British_ac--Are_you_shy_when_you_meet_strangers_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти сором'язливий, то важче говорити англійською на публіці.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0137--Archer--If_you_are_shy__it_s_harder_to_speak_English_in_public_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він виглядав сором'язливим, коли дава(робив) свою першу презентацію.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0138--Shelley_Clear_and_confident_British_fe--He_looked_shy_when_he_gave_his_first_presentation_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона струнка, бо тренується щодня.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0139--Eastend_Steve--She_is_slim_because_she_exercises_every_day_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Slim означає худий у привабливий спосіб.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0140--Lucy_Fresh___Casual--_Slim__means_thin_in_an_attractive_way_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він виглядав струнким у тому новому костюмі.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0141--Alexander--He_looked_slim_in_that_new_suit_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Мої шанси виграти в лотерею дуже малі(не такі великі як очикую)
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0142--Archie_English_teen_youth--My_chances_of_winning_the_lottery_are_very_slim_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо хочеш залишатися струнким, уникай їсти забагато цукру
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0143--Lucy_Fresh___Casual--If_you_want_to_stay_slim__avoid_eating_too_much_sugar_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона завжди була стрункою чи нещодавно схудла?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0144--James_British_Professional_Smooth--Was_she_always_slim__or_did_she_lose_weight_recently_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Straight означає не вигнутий, без згинів чи поворотів
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0146--Archie_English_teen_youth--_Straight__means_not_curved__without_bends_or_turns_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Іди прямо вперед, і ти побачиш автостанцію ліворуч від тебе.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0147--Archie_English_teen_youth--Go_straight_ahead_and_you_ll_see_the_bus_station_on_your_left_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він дав мені прямолінійну відповідь, без жартів цього разу .
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0148--Allison_inviting_and_velvety_British_ac--He_gave_me_a_straight_answer__no_jokes_this_time_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якби дорога була прямою, подорож була б набагато швидшою.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0149--Shelley_Clear_and_confident_British_fe--If_the_road_were_straight__the_journey_would_be_much_faster_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чи є річка Темза прямою, чи вона звивається через Лондон?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0150--Mia_Moore_Studio_Presenter--Is_the_River_Thames_straight_or_does_it_curve_through_London_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Я зробив дурну помилку у своєму тесті з математики.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0151--Axell_British_YouTube_Personality--I_made_a_stupid_mistake_in_my_maths_test_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Stupid означає нерозумний, який демонструє відсутність здорового глузду.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0152--Archer--_Stupid__means_not_clever__showing_a_lack_of_good_sense_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Не називай людей дурними, це недобре.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0153--Archer--Don_t_call_people_stupid__it_s_not_kind_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він почувався дурнем, коли забув свій квиток на потяг удома.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0154--Rachel_M_Pro_British_Radio_Presenter--He_felt_stupid_when_he_forgot_his_train_ticket_at_home_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти так швидко їдеш під дощем — це нерозумно й небезпечно.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0155--Mia_Moore_Studio_Presenter--If_you_drive_so_fast_in_the_rain__it_s_stupid_and_dangerous_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Це було нерозумно з мого боку — вірити тій старій рекламі?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0156--Mia_Moore_Studio_Presenter--Was_it_stupid_of_me_to_believe_that_old_advert_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Talkative описує людину, яка любить багато говорити.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0158--Eastend_Steve--_Talkative__describes_someone_who_likes_speaking_a_lot_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Наш таксист у Лондоні був дуже балакучим і розповідав нам смішні історії.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0159--Archie_English_teen_youth--Our_taxi_driver_in_London_was_really_talkative_and_told_us_funny_stories_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ти балакучий, коли знайомишся з новими людьми, чи більш тихий?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0160--Amelia--Are_you_talkative_when_you_meet_new_people__or_more_quiet_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він став більш балакучим після пінти у пабі.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0161--Elizabeth_Professional_British_Narrator--He_became_more_talkative_after_a_pint_at_the_pub_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якби вона не була такою балакучою, зустріч закінчилася б раніше.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0162--Blondie_Conversational--If_she_weren_t_so_talkative__the_meeting_would_finish_earlier_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він дуже високий, набагато вищий за свого молодшого брата.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0163--Samara--He_s_very_tall__much_taller_than_his_younger_brother_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Tall означає мати быльше за середній зріст.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0164--Jane--_Tall__means_having_a_greater_than_average_height_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Шард у Лондоні — найвища будівля у ЮК.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0165--Archie_English_teen_youth--The_Shard_in_London_is_the_tallest_building_in_the_UK_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Мій друг достатньо високий, щоб грати у баскетбол за його шкільну команду
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0166--Archie_English_teen_youth--My_friend_is_tall_enough_to_play_basketball_for_his_school_team_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Учитель був високий чи низький? Я не можу згадати
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0167--Grandfather_Joe_Gentle__warm___wise--Was_the_teacher_tall_or_short__I_can_t_remember_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він виглядає дуже худим, бо він не їсть багато
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0168--Grandfather_Joe_Gentle__warm___wise--He_looks_very_thin_because_he_doesn_t_eat_much_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Thin означає мати мало жиру або неширокий
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0169--Shelley_Clear_and_confident_British_fe--_Thin__means_having_little_fat_or_not_wide_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона одягла тонке пальто, хоча на вулиці було холодно.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0170--Elizabeth_Professional_British_Narrator--She_wore_a_thin_coat__even_though_it_was_cold_outside_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Папір занадто тонкий, ти можеш бачити через нього
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0171--Shelley_Clear_and_confident_British_fe--The_paper_is_too_thin__you_can_see_through_it_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти продовжиш їсти лише салати, ти станеш дуже худим.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0172--Lucy_Fresh___Casual--If_you_keep_eating_only_salads__you_ll_become_very_thin_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чому лід такий тонкий&nbsp;на озері&nbsp; цього року?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0173--Jane--Why_is_the_ice_so_thin_on_the_lake_this_year_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Продавець був непривітний і не хотів допомагати.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0174--Archie_English_teen_youth--The_shop_assistant_was_unfriendly_and_didn_t_want_to_help_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Unfriendly означає недобрий, неприємний або негостинний.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0175--Axell_British_YouTube_Personality--_Unfriendly__means_not_kind__not_pleasant__or_not_welcoming_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Їхні сусіди непривітні й ніколи не вітаються.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0176--James_British_Professional_Smooth--Their_neighbours_are_unfriendly_and_never_say_hello_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він кинув на мене непривітний погляд, коли я поставив питання.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0177--Lucy_Fresh___Casual--He_gave_me_an_unfriendly_look_when_I_asked_a_question_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо люди непривітні, важко заводити нових друзів.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0178--James_British_Professional_Smooth--If_people_are_unfriendly__it_s_hard_to_make_new_friends_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Офіціант справді був непривітний чи ти просто був втомлений?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0179--Grandfather_Joe_Gentle__warm___wise--Was_the_waiter_really_unfriendly__or_were_you_just_tired_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Було недобре з його боку сміятися з її помилки.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0180--Archie_English_teen_youth--It_was_unkind_of_him_to_laugh_at_her_mistake_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Unkind означає не добрий, недружній або образливий.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0181--Bradford--_Unkind__means_not_kind__unfriendly__or_hurtful_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона отримала недобрий коментар у соцмережах.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0182--Katie_X_Call_Center_English_Female--She_got_an_unkind_comment_on_social_media_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Учитель був суворим, але ніколи не був недобрим.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0183--Jane--The_teacher_was_strict_but_never_unkind_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти недоброзичливий(жорстокий) до тварин, люди не будуть тебе поважати.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0184--Adam_Stone--If_you_are_unkind_to_animals__people_won_t_respect_you_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Хіба не було це трохи недобрим&nbsp;ігнорувати його так?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0185--Northern_Terry--Wasn_t_it_a_bit_unkind_to_ignore_him_like_that_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона дуже приваблива і має гарну усмішку.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0186--James_British_Professional_Smooth--She_s_very_attractive_and_has_a_lovely_smile_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Attractive означає приємний на вигляд або цікавий.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0187--Mia_Moore_Studio_Presenter--_Attractive__means_pleasing_to_look_at_or_interesting_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він працює у привабливій старій будівлі в Оксфорді.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0188--James_British_Professional_Smooth--He_works_in_an_attractive_old_building_in_Oxford_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Та пропозиція роботи звучить привабливо через гарну зарплату.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0189--Archer--That_job_offer_sounds_attractive_because_of_the_good_salary_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти вдягнешся охайно, ти виглядатимеш більш привабливо на співбесіді.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0190--Katie_X_Call_Center_English_Female--If_you_dress_smartly__you_ll_look_more_attractive_at_the_interview_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ти вважаєш Лондон привабливим містом для життя?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0191--Shelley_Clear_and_confident_British_fe--Do_you_think_London_is_an_attractive_city_to_live_in_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Це гарний день, давай підемо гуляти в парк.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0192--Allison_inviting_and_velvety_British_ac--It_s_a_beautiful_day__let_s_go_for_a_walk_in_the_park_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Beautiful означає дуже гарненький(милий), що дарує задоволення почуттям
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0193--Johnny_Kid_Serious--_Beautiful__means_very_pretty__giving_pleasure_to_the_senses_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона одягла гарну сукню на весілля.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0194--Adam_Stone--She_wore_a_beautiful_dress_at_the_wedding_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Шотландії має красиві гори й озера.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0195--Lucy_Fresh___Casual--Scotland_has_beautiful_mountains_and_lakes_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо погода залишиться гарною, ми влаштуємо пікнік.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0196--Johnny_Kid_Serious--If_the_weather_stays_beautiful__we_ll_have_a_picnic_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Хіба та музична композиція не була абсолютно прекрасною?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0197--Amelia--Wasn_t_that_piece_of_music_absolutely_beautiful_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У неї довге світле волосся, як у її мами.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0198--Bradford--She_has_long_blonde_hair__like_her_mother_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Blonde описує волосся яке є світло-жовтого кольору.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0199--Axell_British_YouTube_Personality--_Blonde__describes_hair_that_is_light_yellow_in_colour_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У старих голлівудських фільмах багато світловолосих акторів.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0200--Archer--There_are_many_blonde_actors_in_old_Hollywood_films_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Моя подруга стала блондинкою минулого літа, і це їй пасує.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0201--James_British_Professional_Smooth--My_friend_went_blonde_last_summer_and_it_suits_her_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти пофарбуєш волосся у блонд, воно потребуватиме більше догляду.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0202--Northern_Terry--If_you_dye_your_hair_blonde__it_will_need_more_care_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Учителька була блондинка чи брюнетка? Я не пам'ятаю.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0203--Adam_Stone--Was_the_teacher_blonde_or_brunette__I_don_t_remember_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він дуже гарний на вигляд і завжди привертає увагу.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0204--Bradford--He_s_very_good_looking_and_always_gets_attention_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Good-looking означає привабливий на вигляд.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0205--Elizabeth_Professional_British_Narrator--_Good_looking__means_attractive_in_appearance_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Пара виглядала гарно(<span style=""font-style: italic;"">гарною на вигляд</span>) на своїх весільних фото.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0206--Samara--The_couple_looked_good_looking_in_their_wedding_photos_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона думає, її сусід привабливий(гарно виглядаючий), але трохи неприязний
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0207--Northern_Terry--She_thinks_her_neighbour_is_good_looking_but_a_bit_unfriendly_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ти згоден, що він гарний на вигляд, чи не дуже?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0209--Amelia--Do_you_agree_that_he_s_good_looking__or_not_really_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він високий, гарний чоловік із темним волоссям.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0210--Allison_inviting_and_velvety_British_ac--He_s_a_tall__handsome_man_with_dark_hair_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Handsome зазвичай описує привабливого чоловіка.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0211--Elizabeth_Professional_British_Narrator--_Handsome__usually_describes_an_attractive_man_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Актор виглядав дуже гарним у тому класичному британському фільмі.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0212--Johnny_Kid_Serious--The_actor_looked_very_handsome_in_that_classic_British_film_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона подарувала йому гарну усмішку, коли вони зустрілися.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0213--Lucy_Fresh___Casual--She_gave_him_a_handsome_smile_when_they_met_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якби він не був таким гарним, чи був би він все ще популярним?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0214--Grandfather_Joe_Gentle__warm___wise--If_he_weren_t_so_handsome__would_he_still_be_popular_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Хіба принца Вільяма не вважають гарним чоловіком у Британії?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0215--Amelia--Isn_t_Prince_William_considered_a_handsome_man_in_the_UK_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він носив чорний ремінь зі своїми джинсами.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0216--Jane--He_wore_a_black_belt_with_his_jeans_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Пояс - це частина одягу, яку ви носите навколо талії
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0217--Amelia--A_belt_is_a_piece_of_clothing_you_wear_around_your_waist_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Шкільна форма у Британії іноді включає ремінь.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0218--Mia_Moore_Studio_Presenter--School_uniforms_in_the_UK_sometimes_include_a_belt_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Можеш затягнути ремінь? Він занадто вільний.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0219--Eastend_Steve--Can_you_tighten_the_belt__It_s_too_loose_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо я не надягну ремінь, мої штани спадають.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0220--Mia_Moore_Studio_Presenter--If_I_don_t_wear_a_belt__my_trousers_fall_down_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Де ти купив той шкіряний ремінь?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0221--Grandfather_Joe_Gentle__warm___wise--Where_did_you_buy_that_leather_belt_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона купила нові чоботи на зиму.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0222--Alexander--She_bought_new_boots_for_the_winter_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чоботи — це міцне взуття, яке закриває стопи й щиколотки.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0223--Amelia--Boots_are_strong_shoes_that_cover_your_feet_and_ankles_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У Британії люди часто носять гумові чоботи (веллінгтони), коли йде дощ.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0224--Samara--In_Britain__people_often_wear_wellington_boots_when_it_rains_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Його чоботи були брудні після прогулянки в сільській місцевості.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0225--Archie_English_teen_youth--His_boots_were_dirty_after_the_walk_in_the_countryside_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо твої чоботи занадто малі, ноги будуть боліти.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0226--Elizabeth_Professional_British_Narrator--If_your_boots_are_too_small__your_feet_will_hurt_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Тобі потрібні похідні черевики для цієї подорожі?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0227--Jane--Do_you_need_hiking_boots_for_this_trip_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона отримала срібний браслет на день народження.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0228--Shelley_Clear_and_confident_British_fe--She_got_a_silver_bracelet_for_her_birthday_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Браслет - це частина прикраси, яку ти носиш навколо твого зап’ястя
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0229--Rachel_M_Pro_British_Radio_Presenter--A_bracelet_is_a_piece_of_jewellery_you_wear_around_your_wrist_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він купив відповідні(парні) браслети для себе та своєї дівчини.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0230--Eastend_Steve--He_bought_matching_bracelets_for_himself_and_his_girlfriend_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Тобі дозволено носити браслети у твоїй школі?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0231--Alexander--Are_you_allowed_to_wear_bracelets_at_your_school_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо браслет занадто тісний, його незручно носити.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0232--Archer--If_the_bracelet_is_too_tight__it_s_uncomfortable_to_wear_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Той браслет виглядає гарно з твоєю сукнею.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0233--Mia_Moore_Studio_Presenter--That_bracelet_looks_beautiful_with_your_dress_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він носив кепку з логотипом своєї футбольної команди.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0235--Adam_Stone--He_wore_a_cap_with_his_football_team_s_logo_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Кепка — це м'який капелюх із плоским козирком спереду.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0236--Northern_Terry--A_cap_is_a_soft_hat_with_a_flat_peak_at_the_front_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Багато британських шкільних форм включають кепку.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0237--Johnny_Kid_Serious--Many_British_school_uniforms_include_a_cap_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Сьогодні сонячно, тож візьміть із собою кепку.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0238--George--It_s_sunny_today__so_take_a_cap_with_you_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо носити кепку задом наперед, це виглядає більш неформально.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0239--Bradford--If_you_wear_a_cap_backwards__it_looks_more_casual_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Де ти купив ту червону кепку?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0240--Mia_Moore_Studio_Presenter--Where_did_you_buy_that_red_cap_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона одягла теплий кардиган поверх своеї блузки.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0241--Blondie_Conversational--She_wore_a_warm_cardigan_over_her_blouse_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Кардиган — це в'язана кофта, зазвичай із ґудзиками спереду(уздовж передньої частини)
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0242--Archer--A_cardigan_is_a_knitted_jacket__usually_with_buttons_down_the_front_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У Британії люди часто носять кардигани в офісі.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0243--Archer--In_the_UK__people_often_wear_cardigans_at_the_office_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він одягнув кардиган, бо надворі було прохолодно.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0244--Elizabeth_Professional_British_Narrator--He_put_on_a_cardigan_because_it_was_chilly_outside_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо твій кардиган занадто великий, він виглядає неохайно.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0245--James_British_Professional_Smooth--If_your_cardigan_is_too_big__it_looks_untidy_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ти віддаєш перевагу куртці на блискавці чи кардигану на ґудзиках?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0246--Samara--Do_you_prefer_a_zip_jacket_or_a_buttoned_cardigan_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він ніс важку сумку вгору сходами
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0247--Archie_English_teen_youth--He_carried_a_heavy_bag_up_the_stairs_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Carry означає тримати щось і переносити з одного місця в інше.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0248--Allison_inviting_and_velvety_British_ac--To_carry_means_to_hold_something_and_take_it_from_one_place_to_anoth.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона завжди носить парасольку у Британії — про всяк випадок, якщо піде дощ.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0249--Bravefart--She_always_carries_an_umbrella_in_Britain___just_in_case_it_rains_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Можеш занести ці стільці в зал?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0250--Nikhil___Young_Conversational_Voice--Can_you_carry_these_chairs_into_the_hall_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти нестимеш занадто багато сумок для покупок, у тебе болітимуть руки.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0251--Samara--If_you_carry_too_many_shopping_bags__your_hands_will_hurt_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чому ти несеш пальто, а не вдягаєш його?(PC)
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0252--Alexander--Why_are_you_carrying_your_coat_instead_of_wearing_it_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Одягни пальто, на вулиці холодно.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0253--George--Put_on_your_coat__it_s_cold_outside_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Пальто — це частина одягу, яке ти носиш поверх іншого одягу, щоб зберегти тепло.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0254--Elizabeth_Professional_British_Narrator--A_coat_is_a_piece_of_clothing_you_wear_over_other_clothes_to_keep_wa.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У Британії потрібне гарне пальто для дощової погоди.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0255--James_British_Professional_Smooth--In_Britain__you_need_a_good_coat_for_the_rainy_weather_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона купила довге зимове пальто в універмазі.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0256--Katie_X_Call_Center_English_Female--She_bought_a_long_winter_coat_at_the_department_store_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ти вважаєш, що чорне пальто виглядає елегантніше за коричневе?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0258--Axell_British_YouTube_Personality--Do_you_think_a_black_coat_looks_smarter_than_a_brown_one_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона швидко вдяглася й побігла до школи.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0259--Mia_Moore_Studio_Presenter--She_dressed_quickly_and_ran_to_school_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Dress означає одягати себе або когось іншого.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0260--Blondie_Conversational--To_dress_means_to_put_clothes_on_yourself_or_someone_else_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Британці часто вдягаються офіційно на співбесіди.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0261--Archer--British_people_often_dress_formally_for_job_interviews_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Як ти зазвичай вдягаєшся взимку?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0262--Jane--How_do_you_usually_dress_in_winter_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ти одягнешся тепло, то не застудишся
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0263--Katie_X_Call_Center_English_Female--If_you_dress_warmly__you_won_t_catch_a_cold_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він був вдягнений як джентльмен з 19-го століття.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0264--Allison_inviting_and_velvety_British_ac--He_was_dressed_like_a_gentleman_from_the_19th_century_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона носила золоті сережки на весіллі.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0265--Grandfather_Joe_Gentle__warm___wise--She_wore_gold_earrings_at_the_wedding_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Сережки — це частини прикраси, які ви носите на вухах
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0266--Shelley_Clear_and_confident_British_fe--Earrings_are_pieces_of_jewellery_that_you_wear_on_your_ears_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У деяких британських школах учням заборонено носити великі сережки.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0267--Samara--In_some_British_schools__students_are_not_allowed_to_wear_big_earrings_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Я купив нові срібні сережки у магазині в Кардіффі.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0268--Alexander--I_bought_new_silver_earrings_in_a_shop_in_Cardiff_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо твої сережки занадто важкі, у тебе болітимуть вуха.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0269--Katie_X_Call_Center_English_Female--If_your_earrings_are_too_heavy__your_ears_will_hurt_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Куди ти поклала свої сережки? Я не можу їх бачити
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0270--Elizabeth_Professional_British_Narrator--Where_did_you_put_your_earrings__I_can_t_see_them_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він одягнув теплі рукавички перед тим, як вийти на вулицю.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0271--Archie_English_teen_youth--He_put_on_warm_gloves_before_going_outside_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Рукавички – це предмети одягу, які ви носите на руках.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0272--Jane--Gloves_are_pieces_of_clothing_you_wear_on_your_hands_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У Британії люди часто носять рукавички взимку, а іноді й восени.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0273--Lucy_Fresh___Casual--In_Britain__people_often_wear_gloves_in_winter_and_sometimes_in_autumn_too_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона загубила одну зі своїх рукавичок в автобусі.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0274--Northern_Terry--She_lost_one_of_her_gloves_on_the_bus_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо носитимеш рукавички, твої руки не замерзнуть.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0275--Adam_Stone--If_you_wear_gloves__your_hands_won_t_get_cold_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Це шкіряні рукавички чи просто тканинні?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0276--Nikhil___Young_Conversational_Voice--Are_these_leather_gloves_or_just_fabric_ones_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він носив капелюх, бо сонце було сильне.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0277--James_British_Professional_Smooth--He_wore_a_hat_because_the_sun_was_strong_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Капелюх - це частина одягу, яку ви носите на голові.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0278--Bravefart--A_hat_is_a_piece_of_clothing_you_wear_on_your_head_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У Великій Британії жінки часто носять вишукані капелюшки на весіллях.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0279--Rachel_M_Pro_British_Radio_Presenter--In_the_UK__women_often_wear_fancy_hats_at_weddings_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Не забудь капелюх, надворі вітряно.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0280--Rachel_M_Pro_British_Radio_Presenter--Don_t_forget_your_hat__it_s_windy_outside_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо ви носите капелюх у приміщенні, деякі люди вважають це неввічливим.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0281--Adam_Stone--If_you_wear_a_hat_indoors__some_people_think_it_s_rude_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чий це капелюх на столі?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0282--Samara--Whose_hat_is_this_on_the_table_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він одягнув куртку й пішов на роботу.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0283--Lucy_Fresh___Casual--He_put_on_his_jacket_and_left_for_work_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Куртка -це коротке пальто, що зазвичай досягає талії або стегон.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0284--Mia_Moore_Studio_Presenter--A_jacket_is_a_short_coat__usually_reaching_the_waist_or_hips_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У Британії люди часто носять куртки навіть літніми вечорами.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0285--Allison_inviting_and_velvety_British_ac--In_Britain__people_often_wear_jackets_even_in_summer_evenings_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона купила елегантну куртку для своєї нової роботи.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0286--Shelley_Clear_and_confident_British_fe--She_bought_a_smart_jacket_for_her_new_job_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо твоя куртка намокне, повісь її сушитися.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0287--Oracle_X--If_your_jacket_gets_wet__hang_it_up_to_dry_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чи пасує ця куртка до моїх штанів?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0288--Grandfather_Joe_Gentle__warm___wise--Does_this_jacket_go_well_with_my_trousers_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він завжди носить джинси на вихідних.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0289--George--He_always_wears_jeans_at_the_weekend_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Джинси — це штани, зроблені з міцної бавовняної тканини.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0290--Elizabeth_Professional_British_Narrator--Jeans_are_trousers_made_of_strong_denim_cloth_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Багато британських шкіл дозволяють джинси лише в дні без форми.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0291--Allison_inviting_and_velvety_British_ac--Many_British_schools_allow_jeans_only_on_non_uniform_days_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона купила пару синіх джинсів на розпродажі.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0292--Rachel_M_Pro_British_Radio_Presenter--She_bought_a_pair_of_blue_jeans_in_the_sales_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо твої джинси занадто довгі, їх можна підвернути.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0293--Blondie_Conversational--If_your_jeans_are_too_long__you_can_roll_them_up_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Скільки пар джинсів у тебе є?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0294--George--How_many_pairs_of_jeans_do_you_have_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона ходила в легінсах й довгому светрі у спортзал.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0295--Archer--She_wore_leggings_and_a_long_jumper_to_the_gym_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Лосини — це обтягуючі штани, зазвичай зі стрейчової тканини.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0296--Emmaline_young_British_girl--Leggings_are_tight_trousers__usually_made_of_stretchy_material_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Багато дівчат у Британії носять лосини як частину спортивної форми.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0297--Oracle_X--Many_girls_in_the_UK_wear_leggings_as_part_of_their_PE_kit_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ці лосини занадто тонкі для зими.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0298--Nikhil___Young_Conversational_Voice--These_leggings_are_too_thin_for_winter_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо твої лосини зручні, у них можна навіть подорожувати.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0299--Maty___Storyteller--If_your_leggings_are_comfortable__you_can_even_travel_in_them_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Лосини дозволені у твоїй школі чи тільки спортивні штани?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0300--Oracle_X--Are_leggings_allowed_at_your_school__or_only_tracksuit_bottoms_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона одягла намисто з перлин на офіційну вечерю.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0301--Eastend_Steve--She_wore_a_pearl_necklace_at_the_formal_dinner_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Намисто — це прикраса, що ти носиш навколо своєї шиї.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0302--Adam_Stone--A_necklace_is_jewellery_that_you_wear_around_your_neck_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Солдати іноді носять ланцюжок з ідентифікаційним жетоном.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0303--Ayinde___young_British_Nigerian--Soldiers_sometimes_wear_a_necklace_with_an_ID_tag_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він купив їй золоте намисто на річницю.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0304--Shelley_Clear_and_confident_British_fe--He_bought_her_a_gold_necklace_for_their_anniversary_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо намисто занадто важке, воно незручне.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0305--Rachel_M_Pro_British_Radio_Presenter--If_the_necklace_is_too_heavy__it_s_uncomfortable_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він подарував їй діамантову каблучку, коли зробив пропозицію.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0307--Samara--He_gave_her_a_diamond_ring_when_he_proposed_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Каблучка — це прикраса, яку носять на пальці.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0308--Bravefart--A_ring_is_a_piece_of_jewellery_that_you_wear_on_your_finger_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У Британії люди зазвичай носять обручки на лівій руці.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0309--Emmaline_young_British_girl--In_the_UK__people_usually_wear_wedding_rings_on_the_left_hand_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Боксер вийшов(зробив крок) на ринг перед боєм.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0310--Bradford--The_boxer_stepped_into_the_ring_before_the_fight_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо твоя каблучка занадто маленька, воно може поранити палець
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0311--Shelley_Clear_and_confident_British_fe--If_your_ring_is_too_small__it_can_hurt_your_finger_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Де ти купив ту срібну каблучку?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0312--Allison_inviting_and_velvety_British_ac--Where_did_you_buy_that_silver_ring_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він носив сандалі на пляжному відпочинку в Іспанії.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0313--Allison_inviting_and_velvety_British_ac--He_wore_sandals_on_the_beach_holiday_in_Spain_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Сандалі — це легке взуття, відкрите зверху й з боків.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0314--Oracle_X--Sandals_are_light_shoes_that_are_open_at_the_top_and_sides_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У Британії люди зазвичай носять сандалі лише влітку.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0315--Jane--In_Britain__people_usually_wear_sandals_only_in_summer_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона купила шкіряні сандалі на базарі.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0316--Blondie_Conversational--She_bought_leather_sandals_at_the_market_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо твої сандалі нові, вони можуть натирати ноги.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0317--Elizabeth_Professional_British_Narrator--If_your_sandals_are_new__they_might_rub_your_feet_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Чи вчителі дозволяють (носити) сандалі у вашій школі?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0318--Nikhil___Young_Conversational_Voice--Do_teachers_allow_sandals_at_your_school_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона одягла вовняний шарф, бо було вітряно.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0319--Katie_X_Call_Center_English_Female--She_put_on_a_wool_scarf_because_it_was_windy_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Шарф — це шматок тканини, який носять на шиї для тепла чи моди.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0320--Bradford--A_scarf_is_a_piece_of_cloth_you_wear_around_your_neck_for_warmth_or_fashion_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Футбольні фанати часто носять шарфи у кольорах своєї команди.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0321--Allison_inviting_and_velvety_British_ac--Football_fans_often_wear_scarves_in_their_team_colours_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він обмотав шарф щільно навколо шиї.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0322--Archer--He_wrapped_the_scarf_tightly_around_his_neck_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо забудеш шарф, застудишся.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0323--Katie_X_Call_Center_English_Female--If_you_forget_your_scarf__you_ll_catch_a_cold_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Де ти купив той тартановий шарф? Він виглядає дуже по-шотландськи!
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0324--Nikhil___Young_Conversational_Voice--Where_did_you_buy_that_tartan_scarf__It_looks_very_Scottish_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він одягнув боксерські рукавички для тренування.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0325--Archie_English_teen_youth--He_wore_boxing_gloves_for_the_training_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він одягнув білу сорочку й краватку на співбесіду.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0326--Ayinde___young_British_Nigerian--He_wore_a_white_shirt_and_a_tie_to_the_interview_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Сорочка — це одяг із комірцем, рукавами та ґудзиками.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0327--Ayinde___young_British_Nigerian--A_shirt_is_a_piece_of_clothing_with_a_collar__sleeves_and_buttons_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У багатьох британських офісах чоловіки повинні носити сорочку щодня.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0328--Mia_Moore_Studio_Presenter--In_many_British_offices__men_have_to_wear_a_shirt_every_day_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона купила нову футбольну футболку в кольорах своєї команди.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0329--Bravefart--She_bought_a_new_football_shirt_in_her_team_s_colours_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо не прасувати сорочку, вона виглядає неохайно.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0330--Johnny_Kid_Serious--If_you_don_t_iron_your_shirt__it_looks_messy_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Скільки сорочок у твоїй шафі?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0331--Mia_Moore_Studio_Presenter--How_many_shirts_are_in_your_wardrobe_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Взуття — це речі, які носять на ногах, зазвичай із шкарпетками.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0333--Grandfather_Joe_Gentle__warm___wise--Shoes_are_things_you_wear_on_your_feet__usually_with_socks_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У британських школах чорне взуття часто є частиною форми.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0334--Archie_English_teen_youth--In_British_schools__black_shoes_are_often_part_of_the_uniform_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    <div>Вона взула кросівки для бігу до спортзалу</div>
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0335--Ayinde___young_British_Nigerian--She_wore_running_shoes_to_the_gym_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо твої черевики мокрі, постав їх біля батареї сушитися.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0336--Allison_inviting_and_velvety_British_ac--If_your_shoes_are_wet__put_them_near_the_radiator_to_dry_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Це взуття тобі підходить, чи воно замале?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0337--Ayinde___young_British_Nigerian--Do_these_shoes_fit_you__or_are_they_too_small_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він носив шорти й футболку у спекотний день.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0338--Emmaline_young_British_girl--He_wore_shorts_and_a_T_shirt_on_the_hot_day_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Шорти — це короткі штани, що закінчуються вище коліна.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0339--Mia_Moore_Studio_Presenter--Shorts_are_short_trousers_that_end_above_the_knee_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    На шкільних уроках фізкультури хлопці зазвичай носять шорти.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0340--Elizabeth_Professional_British_Narrator--At_school_PE_lessons__boys_usually_wear_shorts_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона купила нові велосипедні шорти для тренування.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0341--Axell_British_YouTube_Personality--She_bought_new_cycling_shorts_for_training_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо носитимеш шорти взимку, замерзнеш!
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0342--Samara--If_you_wear_shorts_in_winter__you_will_freeze_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Ці шорти занадто довгі чи якраз підходять за розміром?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0343--Alexander--Are_these_shorts_too_long_or_just_the_right_size_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона вдягла чорну спідницю з блузкою.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0344--Blondie_Conversational--She_wore_a_black_skirt_with_her_blouse_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Спідниця — це одяг для жінок або дівчат, який звисає від талії.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0345--Elizabeth_Professional_British_Narrator--A_skirt_is_a_piece_of_clothing_for_women_or_girls_that_hangs_from_th.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    У багатьох британських школах дівчата носять спідниці як частину форми.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0346--Lucy_Fresh___Casual--In_many_British_schools__girls_wear_skirts_as_part_of_the_uniform_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона купила літню спідницю з квітами.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0347--Blondie_Conversational--She_bought_a_summer_skirt_with_flowers_on_it_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо спідниця занадто коротка, її можуть не дозволити в школі.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0348--Bravefart--If_the_skirt_is_too_short__it_may_not_be_allowed_at_school_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Спідниця була з бавовни чи вовни?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0349--Archer--Was_the_skirt_made_of_cotton_or_wool_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Він одягнув чисті шкарпетки перед роботою.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0350--Allison_inviting_and_velvety_British_ac--He_put_on_clean_socks_before_going_to_work_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Шкарпетки — це елемент одягу, який носять на ногах, всередині взуття.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0351--James_British_Professional_Smooth--Socks_are_pieces_of_clothing_that_you_wear_on_your_feet__inside_shoes_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Британська шкільна форма зазвичай включає чорні або сірі шкарпетки.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0352--Ayinde___young_British_Nigerian--British_school_uniforms_usually_include_black_or_grey_socks_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Вона купила кольорові шкарпетки з мультяшними героями.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0353--Axell_British_YouTube_Personality--She_bought_colourful_socks_with_cartoon_characters_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Якщо твої шкарпетки мокрі, швидко їх поміняй.
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0354--James_British_Professional_Smooth--If_your_socks_are_wet__change_them_quickly_.mp3></audio>
+	</div>
+</div>"	</div>
+"<div class=""card typed-card"">
+  <div class=""front"">
+    Куди ти подів свої футбольні гетри?
+  </div>
+  <div class=""typed-input"">
+    
+  </div>
+	<div class=""audio-plyer"">
+		<audio controls preload=""none"" src=0355--Katie_X_Call_Center_English_Female--Where_did_you_put_your_football_socks_.mp3></audio>
+	</div>
+</div>"	</div>

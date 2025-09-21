@@ -10,6 +10,8 @@ Each deck is provided in `.csv` format — either as **typed input** or with **a
 .
 ├── typed/     # Typed cards (Ukrainian → English)
 ├── audio/     # Cards with audio prompts (.csv + .mp3)
+├── video/     # Cards with video prompts (.csv + .webm)
+├── pre_inter/ # Cards with audio prompts (.csv + .mp3)
 └── README.md
 ```
 
@@ -31,7 +33,14 @@ Each deck is provided in `.csv` format — either as **typed input** or with **a
 
 ## 📦 Available decks
 
-### 📄 Typed decks (UA → EN)
+### 📄 New Typed decks (UA → EN)
+
+### 📄 Typed decks (UA → EN) + audio
+🆕 [Deck] Pre-intermediate – typed input
+
+
+### 📄 Typed decks (EN) + video
+🆕 [Deck] Video from different sources
 
 🆕 [Deck] **Emotions – typed input**  
 📁 [`typed/emotions_2025-07-12.csv`](https://github.com/zloyleva/anki-decks/blob/main/typed/emotions_2025-07-12.csv)  
